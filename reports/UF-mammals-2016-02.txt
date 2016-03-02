@@ -1,0 +1,207 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for February 2016, generated on 2016/03/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 134
+Number of records retrieved in searches: 702
+Number of different countries where searches have been originated: 9
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 17
+	Country: Unknown ; Times: 6
+	Country: France ; Times: 6
+	Country: United States ; Times: 96
+	Country: Colombia ; Times: 3
+	Country: Switzerland ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 5
+	Date: 2016-02-08 ; Times: 9
+	Date: 2016-02-18 ; Times: 13
+	Date: 2016-02-19 ; Times: 6
+	Date: 2016-02-12 ; Times: 10
+	Date: 2016-02-10 ; Times: 8
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 5
+	Date: 2016-02-14 ; Times: 1
+	Date: 2016-02-15 ; Times: 4
+	Date: 2016-02-28 ; Times: 1
+	Date: 2016-02-23 ; Times: 9
+	Date: 2016-02-22 ; Times: 6
+	Date: 2016-02-21 ; Times: 2
+	Date: 2016-02-20 ; Times: 2
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 4
+	Date: 2016-02-24 ; Times: 3
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 18
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-05 ; Times: 4
+	Date: 2016-02-04 ; Times: 14
+	Date: 2016-02-06 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "30149" ; Times: 1
+	Query: "genus:nyctomys" ; Times: 4
+	Query: "felis catus type:specimen (United States skull)" ; Times: 1
+	Query: "Lama glama mappable:1" ; Times: 1
+	Query: "genus:Bradypus country:&#34;colombia&#34;" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "balaenoptera physalus" ; Times: 1
+	Query: "type:specimen specificepithet:hudsonius genus:zapus stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "dermoptera order:dermoptera" ; Times: 1
+	Query: "panthera tissue:1" ; Times: 3
+	Query: "genus:ototylomys country:&#34;belize&#34;" ; Times: 3
+	Query: "Procyon lotor type:specimen country:&#34;United States&#34; preparations:fluid (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 2
+	Query: "Pteronura brasiliensis" ; Times: 4
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 3
+	Query: "inia" ; Times: 1
+	Query: "pecari tajacu stateprovince:&#34;Arizona&#34;" ; Times: 2
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "nippon" ; Times: 2
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 2
+	Query: "acinonyx jubatus" ; Times: 2
+	Query: "Dermoptera mappable:1" ; Times: 13
+	Query: "Saguinus oedipus (Colombia)" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Myotis septentrionalis (Illinois)" ; Times: 1
+	Query: "mammoth cave" ; Times: 2
+	Query: "Conepatus type:specimen (texas) AND (NOT ASNHC)" ; Times: 1
+	Query: "barbastella" ; Times: 1
+	Query: "genus:spermophilus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "Trichechus manatus" ; Times: 2
+	Query: "Myotis septentrionalis (Indiana)" ; Times: 2
+	Query: "caenolestes" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "inia geoffrensis" ; Times: 4
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR ethanol OR alcohol) mappable:1" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 10
+	Query: "neotoma floridana year &gt;= 2005 year &lt;= 2010 tissue:1" ; Times: 1
+	Query: "Dermoptera" ; Times: 2
+	Query: "Myocastor coypus" ; Times: 5
+	Query: "family:cricetidae (8251 )" ; Times: 1
+	Query: "plecotus austriacus" ; Times: 2
+	Query: "Chrysocyon" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;illinois&#34;" ; Times: 2
+	Query: "tarsier" ; Times: 1
+	Query: "Procyon lotor type:specimen (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "callicebus" ; Times: 1
+	Query: "genus:inia" ; Times: 4
+	Query: "suricata" ; Times: 3
+	Query: "saguinus geoffroyi" ; Times: 1
+	Query: "panthera tigris" ; Times: 1
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "FLMNH Mammals 9727" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "pteronura institutioncode:UF" ; Times: 3
+	Query: "lynx rufus type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 2
+	Query: "class:mammalia county:&#34;jefferson&#34; stateprovince:&#34;alabama&#34;" ; Times: 1
+	Query: "dermoptera" ; Times: 9
+	Query: "Mammoth Cave stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "Panthera leo" ; Times: 1
+	Query: "Conepatus leuconotus type:specimen" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 95 (out of 512 download events in this period)
+Total number of records downloaded: 7047
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 1
+	Country: Canada ; Times: 1
+	Country: Mexico ; Times: 24
+	Country: Unknown ; Times: 18
+	Country: South Africa ; Times: 1
+	Country: United States ; Times: 46
+	Country: Colombia ; Times: 3
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-02-09 ; Times: 5
+	Date: 2016-02-08 ; Times: 1
+	Date: 2016-02-18 ; Times: 6
+	Date: 2016-02-19 ; Times: 10
+	Date: 2016-02-12 ; Times: 6
+	Date: 2016-02-13 ; Times: 3
+	Date: 2016-02-10 ; Times: 2
+	Date: 2016-02-11 ; Times: 2
+	Date: 2016-02-16 ; Times: 5
+	Date: 2016-02-17 ; Times: 2
+	Date: 2016-02-14 ; Times: 2
+	Date: 2016-02-15 ; Times: 2
+	Date: 2016-02-02 ; Times: 2
+	Date: 2016-02-23 ; Times: 4
+	Date: 2016-02-22 ; Times: 3
+	Date: 2016-02-21 ; Times: 3
+	Date: 2016-02-20 ; Times: 3
+	Date: 2016-02-27 ; Times: 1
+	Date: 2016-02-26 ; Times: 1
+	Date: 2016-02-25 ; Times: 1
+	Date: 2016-02-24 ; Times: 1
+	Date: 2016-02-01 ; Times: 1
+	Date: 2016-02-03 ; Times: 5
+	Date: 2016-02-28 ; Times: 2
+	Date: 2016-02-05 ; Times: 1
+	Date: 2016-02-04 ; Times: 21
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:nyctomys" ; Times: 1
+	Query: "Delphinidae" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "Phloeomys" ; Times: 1
+	Query: "Choloepus hoffmanni" ; Times: 1
+	Query: "&#34;Dermoptera&#34; mappable:1" ; Times: 1
+	Query: "county:&#34;Coconino&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "specificepithet:hudsonius genus:zapus stateprovince:&#34;minnesota&#34;" ; Times: 2
+	Query: "procyon lotor type:specimen country:&#34;United States&#34; (fluid OR alcohol OR ethanol ) mappable:1" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "castor canadensis" ; Times: 1
+	Query: "Puma concolor" ; Times: 5
+	Query: "county:&#34;Gila&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "ototylomys" ; Times: 1
+	Query: "Eira" ; Times: 1
+	Query: "Proechimys oconnelli" ; Times: 1
+	Query: "lynx rufus type:specimen (ethanol OR fluid OR alcohol ) mappable:1" ; Times: 1
+	Query: "Ailurus fulgens" ; Times: 1
+	Query: "Dermoptera mappable:1" ; Times: 9
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "Saguinus oedipus (Colombia)" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 18
+	Query: "puma concolor" ; Times: 8
+	Query: "spermophilus tridecemlineatus" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "Zygodontomys brevicauda" ; Times: 1
+	Query: "ochotona princeps" ; Times: 1
+	Query: "Scapanus orarius" ; Times: 1
+	Query: "dermoptera mappable:1" ; Times: 8
+	Query: "county:&#34;Graham&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "genus:sorex (NOT institutioncode:USNM)" ; Times: 1
+	Query: "type:specimen genus:sus (skeleton)" ; Times: 1
+	Query: "callicebus" ; Times: 2
+	Query: "saguinus midas" ; Times: 1
+	Query: "county:&#34;Navajo&#34; stateprovince:&#34;Arizona&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "septentrionalis class:Mammalia stateprovince:&#34;Pennsylvania&#34;" ; Times: 2
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "stateprovince:&#34;texas&#34; specificepithet:personatus genus:geomys year &gt;= 1970 year &lt;= 2015" ; Times: 1
+	Query: "dermoptera" ; Times: 3
+	Query: "Puma Concolor" ; Times: 1
+	Query: "genus:martes continent:north america" ; Times: 1
+
+
+End of report.
