@@ -1,0 +1,148 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for May 2016, generated on 2016/06/03
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 97
+Number of records retrieved in searches: 527
+Number of different countries where searches have been originated: 11
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Canada ; Times: 4
+	Country: Mexico ; Times: 27
+	Country: Unknown ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 35
+	Country: Germany ; Times: 1
+	Country: Colombia ; Times: 19
+	Country: Denmark ; Times: 2
+	Country: Nicaragua ; Times: 1
+	Country: Benin ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-19 ; Times: 3
+	Date: 2016-05-18 ; Times: 1
+	Date: 2016-05-16 ; Times: 1
+	Date: 2016-05-15 ; Times: 14
+	Date: 2016-05-14 ; Times: 6
+	Date: 2016-05-11 ; Times: 5
+	Date: 2016-05-10 ; Times: 1
+	Date: 2016-05-31 ; Times: 21
+	Date: 2016-05-30 ; Times: 1
+	Date: 2016-05-08 ; Times: 1
+	Date: 2016-05-04 ; Times: 2
+	Date: 2016-05-05 ; Times: 1
+	Date: 2016-05-06 ; Times: 3
+	Date: 2016-05-07 ; Times: 3
+	Date: 2016-05-26 ; Times: 2
+	Date: 2016-05-27 ; Times: 2
+	Date: 2016-05-24 ; Times: 9
+	Date: 2016-05-23 ; Times: 8
+	Date: 2016-05-20 ; Times: 4
+	Date: 2016-05-21 ; Times: 1
+	Date: 2016-05-28 ; Times: 6
+	Date: 2016-05-29 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 11
+	Query: "lasiurus intermedius tissue:1" ; Times: 1
+	Query: "Micoureus demerarae" ; Times: 2
+	Query: "32603" ; Times: 1
+	Query: "country:&#34;Brazil&#34; specificepithet:tridactyla genus:myrmecophaga" ; Times: 3
+	Query: "Sus scrofa " ; Times: 1
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "cyclopes" ; Times: 1
+	Query: "petaurista" ; Times: 2
+	Query: "Cabassous centralis" ; Times: 1
+	Query: "Alouatta pIGRA" ; Times: 3
+	Query: "panthera leo" ; Times: 5
+	Query: "Leopardus wiedii" ; Times: 3
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "canis lupus texas" ; Times: 1
+	Query: "nelsonia goldmani" ; Times: 6
+	Query: "type:specimen specificepithet:oxyotus genus:Myotis" ; Times: 1
+	Query: "country:&#34;Brazil&#34; genus:myrmecophaga" ; Times: 1
+	Query: "leopardus pardalis" ; Times: 4
+	Query: "family:bovidae year &gt;= 1983 year &lt;= 1984" ; Times: 1
+	Query: "Puma concolor coryi" ; Times: 1
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Tamandua mexicana" ; Times: 5
+	Query: "sphiggurus" ; Times: 2
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "coendou" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 10
+	Query: "caenolestes fuliginosus" ; Times: 1
+	Query: "Cyclopes didactylus" ; Times: 1
+	Query: "Phloeomys preparations:skeleton" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Lasiurus intermedius tissue:1" ; Times: 1
+	Query: "distance(location,geopoint(31.769036,-109.037516))&lt;15000" ; Times: 1
+	Query: "genus:Tamias institutioncode:UF" ; Times: 1
+	Query: "alouatta pigra" ; Times: 2
+	Query: "dipodomys compactus" ; Times: 1
+	Query: "Cebus Panama" ; Times: 1
+	Query: "specificepithet:townsendii genus:Corynorhinus county:&#34;Los Angeles&#34;" ; Times: 1
+	Query: "Cryptotis alticola" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 3
+	Query: "Cyclopes" ; Times: 1
+	Query: "dasypus sabanicola" ; Times: 1
+	Query: "ateles geoffroyi" ; Times: 1
+	Query: "panthera tigris tissue:1" ; Times: 1
+	Query: "UF 23945" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 34 (out of 327 download events in this period)
+Total number of records downloaded: 7376
+Number of different countries: 4
+
+Origin of the queries that retrieved data from the resource: 
+	Country: United States ; Times: 24
+	Country: Brazil ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Mexico ; Times: 7
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2016-05-04 ; Times: 1
+	Date: 2016-05-17 ; Times: 1
+	Date: 2016-05-01 ; Times: 1
+	Date: 2016-05-14 ; Times: 1
+	Date: 2016-05-13 ; Times: 3
+	Date: 2016-05-12 ; Times: 5
+	Date: 2016-05-05 ; Times: 4
+	Date: 2016-05-24 ; Times: 1
+	Date: 2016-05-31 ; Times: 10
+	Date: 2016-05-23 ; Times: 1
+	Date: 2016-05-20 ; Times: 2
+	Date: 2016-05-22 ; Times: 2
+	Date: 2016-05-28 ; Times: 2
+
+List of queries that retrieved data from the resource: 
+	Query: "cyclopes didactylus" ; Times: 1
+	Query: "specificepithet:delphis genus:Delphinus" ; Times: 4
+	Query: "specificepithet:californianus genus:Zalophus" ; Times: 5
+	Query: "Nelsonia goldmani" ; Times: 1
+	Query: "myrmecophaga tridactyla" ; Times: 1
+	Query: "urocyon littoralis" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:virginiana genus:Didelphis" ; Times: 1
+	Query: "genus:Didelphis preparations:tissue" ; Times: 1
+	Query: "Marmota marmota" ; Times: 1
+	Query: "specificepithet:princeps genus:ochotona" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "genus:Lepus continent:North America" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Peromyscus" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 1
+	Query: "distance(location,geopoint(0.6626806178531492,-71.103515625))&lt;936470" ; Times: 1
+	Query: "type:specimen specificepithet:townsendii genus:Corynorhinus county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "order:Chiroptera county:&#34;Los Angeles&#34; stateprovince:&#34;California&#34;" ; Times: 1
+	Query: "Canis type:specimen" ; Times: 1
+	Query: "PUMA CONCOLOR" ; Times: 2
+	Query: "Cryptotis alticola" ; Times: 1
+	Query: "solenodon paradoxus" ; Times: 1
+	Query: "Canis type:specimen distance(location,geopoint(37.71859032558813,-95.44921875))&lt;2776004" ; Times: 1
+
+
+End of report.
