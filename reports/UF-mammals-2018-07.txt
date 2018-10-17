@@ -1,0 +1,273 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for July 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 248
+Number of records retrieved in searches: 2914
+Number of different countries where searches have been originated: 17
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 16
+	Country: United States ; Times: 163
+	Country: Netherlands ; Times: 2
+	Country: Chile ; Times: 12
+	Country: Mexico ; Times: 29
+	Country: El Salvador ; Times: 1
+	Country: Unknown ; Times: 2
+	Country: Czechia ; Times: 1
+	Country: Costa Rica ; Times: 2
+	Country: United Kingdom ; Times: 3
+	Country: Guatemala ; Times: 5
+	Country: Germany ; Times: 2
+	Country: Colombia ; Times: 1
+	Country: Switzerland ; Times: 1
+	Country: New Zealand ; Times: 2
+	Country: Russia ; Times: 3
+	Country: Spain ; Times: 3
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-07 ; Times: 7
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 7
+	Date: 2018-07-03 ; Times: 34
+	Date: 2018-07-29 ; Times: 1
+	Date: 2018-07-08 ; Times: 6
+	Date: 2018-07-09 ; Times: 5
+	Date: 2018-07-04 ; Times: 3
+	Date: 2018-07-05 ; Times: 2
+	Date: 2018-07-06 ; Times: 1
+	Date: 2018-07-21 ; Times: 11
+	Date: 2018-07-26 ; Times: 10
+	Date: 2018-07-27 ; Times: 15
+	Date: 2018-07-24 ; Times: 19
+	Date: 2018-07-25 ; Times: 15
+	Date: 2018-07-13 ; Times: 9
+	Date: 2018-07-12 ; Times: 23
+	Date: 2018-07-11 ; Times: 3
+	Date: 2018-07-10 ; Times: 8
+	Date: 2018-07-17 ; Times: 2
+	Date: 2018-07-16 ; Times: 13
+	Date: 2018-07-15 ; Times: 5
+	Date: 2018-07-31 ; Times: 11
+	Date: 2018-07-30 ; Times: 7
+	Date: 2018-07-19 ; Times: 5
+	Date: 2018-07-18 ; Times: 5
+	Date: 2018-07-22 ; Times: 2
+	Date: 2018-07-23 ; Times: 4
+	Date: 2018-07-20 ; Times: 14
+
+List of queries that retrieved data from the resource: 
+	Query: "catalognumber:22030 institutioncode:UF" ; Times: 1
+	Query: "Ctenomys dorsalis" ; Times: 3
+	Query: "specificepithet:megalotis genus:Otocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34; preparations: &#34;skin&#34;" ; Times: 1
+	Query: "leopardus wiedii" ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 2
+	Query: "genus:tolypeutes preparations:skeleton" ; Times: 2
+	Query: "genus:zaedyus preparations:skeleton" ; Times: 11
+	Query: "Dipodomys merriami parvus" ; Times: 1
+	Query: "19982" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;St. Johns&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "Panthera pardus japonensis" ; Times: 1
+	Query: "Elephas maximus" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "genus:Chilonatalus locality:Abaco" ; Times: 2
+	Query: "genus:mustela country:&#34;Mexico&#34;" ; Times: 1
+	Query: "Calomyscus hotsoni" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 5
+	Query: "22763" ; Times: 2
+	Query: "genus:Scalopus stateprovince:&#34;Ohio&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:megalotis genus:Otocyon (skull OR skeleton)" ; Times: 1
+	Query: "neotoma magister" ; Times: 11
+	Query: "specificepithet:glaber genus:heterocephalus country:&#34;kenya&#34; institutioncode:UF" ; Times: 2
+	Query: "chiropodomys" ; Times: 1
+	Query: "Orcinus" ; Times: 2
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon (captive OR zoo)" ; Times: 1
+	Query: "vntype:specimen specificepithet:chama genus:Vulpes (skull OR skeleton)" ; Times: 1
+	Query: "Proechimys quadruplicatus" ; Times: 2
+	Query: "12781" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 1
+	Query: "diani" ; Times: 1
+	Query: "peromyscus hylocetes" ; Times: 4
+	Query: "captive vntype:specimen specificepithet:brachyurus genus:Chrysocyon family:Canidae (skull OR skeleton)" ; Times: 1
+	Query: "7111 genus:MYOTIS class:MAMMALIA" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 20
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;Flagler&#34; stateprovince:&#34;Florida&#34;" ; Times: 1
+	Query: "16252" ; Times: 1
+	Query: "trissyllepsis vntype:specimen specificepithet:polionotus genus:Peromyscus year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "Panthera pardus orientalis" ; Times: 1
+	Query: "specificepithet:rufescens genus:Ochotona  mappable:1 year&gt;= 1998 year&lt;= 2018" ; Times: 2
+	Query: "genus:Myrmecophaga preparations:skeleton" ; Times: 1
+	Query: "genus:Scalopus stateprovince:Kentucky" ; Times: 1
+	Query: "Calomyscus bailwardi" ; Times: 3
+	Query: "chaetophractus" ; Times: 3
+	Query: "20055" ; Times: 1
+	Query: "feline" ; Times: 1
+	Query: "specificepithet:swinderianus genus:thryonomys" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 9
+	Query: "&#34;Lepus americanus&#34; stateprovince: Michigan preparations:skin" ; Times: 1
+	Query: "19663" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 1
+	Query: "specificepithet:zerda genus:Vulpes (captive OR zoo)" ; Times: 1
+	Query: "priodontes" ; Times: 2
+	Query: "catalognumber:3278 institutioncode:UF" ; Times: 2
+	Query: "Calomyscus baluchi" ; Times: 5
+	Query: "26423" ; Times: 1
+	Query: "Dinomys branickii" ; Times: 2
+	Query: "specificepithet:vittatus sex:Male institutioncode:UF" ; Times: 1
+	Query: "Aconaemys chile" ; Times: 1
+	Query: "specificepithet:venaticus genus:Speothos (captive OR zoo)" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "addax" ; Times: 1
+	Query: "specificepithet:merriami parvus county:&#34;riverside&#34;" ; Times: 1
+	Query: "specificepithet:macrotis genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1940 year &lt;= 1949" ; Times: 2
+	Query: "trissyllepsis vntype:specimen specificepithet:polionotus genus:Peromyscus" ; Times: 1
+	Query: "29140" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Pennsylvania&#34;" ; Times: 1
+	Query: "specificepithet:littoralis genus:Urocyon (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "23651" ; Times: 1
+	Query: "ateles fusciceps" ; Times: 1
+	Query: "19692" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "specificepithet:thebaica genus:Nycteris country:&#34;Egypt&#34;" ; Times: 1
+	Query: "genus:priodontes preparations:skeleton" ; Times: 4
+	Query: "catalognumber:17467 institutioncode:UF" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "country:Ecuador scientificname:Artibeus glaucus " ; Times: 2
+	Query: "orcinus orca" ; Times: 1
+	Query: "captive vntype:specimen specificepithet:venaticus genus:Speothos (skull OR skeleton)" ; Times: 1
+	Query: "24926" ; Times: 1
+	Query: "catalognumber:20886" ; Times: 1
+	Query: "specificepithet:latrans genus:Canis institutioncode:UF" ; Times: 1
+	Query: "catalognumber:27771" ; Times: 1
+	Query: "GLYPHONYCTERIS" ; Times: 1
+	Query: "32613" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Minnesota&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:30469 institutioncode:UF" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 2
+	Query: "c 5862" ; Times: 1
+	Query: "catalognumber:18148 institutioncode:UF" ; Times: 1
+	Query: "32863" ; Times: 2
+	Query: "dusicyon australis" ; Times: 1
+	Query: "mazama pandora" ; Times: 3
+	Query: "family:Molossidae country:&#34;Costa Rica&#34;" ; Times: 2
+	Query: "recordedby:Greenwood institutioncode:UF" ; Times: 3
+	Query: "floridanus vntype:specimen specificepithet:americanus genus:Ursus family:Ursidae (skull OR skeleton)" ; Times: 1
+	Query: "genus:Parascalops country:&#34;United States&#34;" ; Times: 1
+	Query: "Globicephala macrorhynchus" ; Times: 2
+	Query: "29884" ; Times: 1
+	Query: "catalognumber:9359" ; Times: 1
+	Query: "dusicyon" ; Times: 1
+	Query: "specificepithet:breweri genus:Parascalops country:&#34;United States&#34;" ; Times: 2
+	Query: "specificepithet:procyonoides genus:Nyctereutes (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 1960 year &lt;= 1969" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Michigan&#34; country:&#34;United States&#34;" ; Times: 1
+	Query: "catalognumber:24164" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;st&#34; stateprovince:&#34;Florida&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Florida&#34; country:&#34;United States&#34; (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2010 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1990 year &lt;= 1999 institutioncode:UF" ; Times: 1
+	Query: "catalognumber:13492 institutioncode:UF" ; Times: 1
+	Query: "&#34;Lepus americanus&#34; stateprovince: Minnesota preparations:skin" ; Times: 3
+	Query: "Elephas maximus year&gt;=1960 year&lt;=2018 month&gt;=1 month&lt;=7 day&gt;=1 day&lt;=26" ; Times: 2
+	Query: "Feresa attenuata" ; Times: 1
+	Query: "catalognumber:14357 institutioncode:UF" ; Times: 1
+	Query: "22213" ; Times: 2
+	Query: "specificepithet:cinereoargenteus genus:Urocyon stateprovince:&#34;Florida&#34; country:&#34;United States&#34; (skull OR skeleton) AND (NOT captive NOT zoo) year &gt;= 2000 year &lt;= 2009" ; Times: 1
+	Query: "saguinus imperator" ; Times: 1
+	Query: "26817" ; Times: 2
+	Query: "22740" ; Times: 1
+	Query: "catalognumber:22025 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:cinereoargenteus genus:Urocyon (captive OR zoo)" ; Times: 2
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "capricornis" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 2
+	Query: "29686" ; Times: 1
+	Query: "sotalia fluviatilis" ; Times: 2
+	Query: "eubalaena australis" ; Times: 3
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Lagidium viscacia" ; Times: 2
+	Query: "24679" ; Times: 2
+	Query: "specificepithet:velox genus:Vulpes (skull OR skeleton) AND (NOT captive NOT zoo NOT fossil) year &gt;= 1970 year &lt;= 1979" ; Times: 1
+	Query: "genus:Scalopus stateprovince:&#34;Kentucky&#34;" ; Times: 1
+	Query: "specificepithet:glaber genus:heterocephalus country:&#34;kenya&#34;" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 40 (out of 977 download events in this period)
+Total number of records downloaded: 1165
+Number of different countries: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: United States ; Times: 19
+	Country: Colombia ; Times: 7
+	Country: Mexico ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Chile ; Times: 5
+	Country: Argentina ; Times: 2
+	Country: New Zealand ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-07-11 ; Times: 1
+	Date: 2018-07-10 ; Times: 1
+	Date: 2018-07-08 ; Times: 1
+	Date: 2018-07-16 ; Times: 3
+	Date: 2018-07-15 ; Times: 1
+	Date: 2018-07-14 ; Times: 3
+	Date: 2018-07-22 ; Times: 1
+	Date: 2018-07-05 ; Times: 1
+	Date: 2018-07-06 ; Times: 2
+	Date: 2018-07-07 ; Times: 2
+	Date: 2018-07-26 ; Times: 1
+	Date: 2018-07-01 ; Times: 1
+	Date: 2018-07-02 ; Times: 2
+	Date: 2018-07-27 ; Times: 1
+	Date: 2018-07-21 ; Times: 2
+	Date: 2018-07-19 ; Times: 4
+	Date: 2018-07-24 ; Times: 5
+	Date: 2018-07-30 ; Times: 3
+	Date: 2018-07-17 ; Times: 1
+	Date: 2018-07-20 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Dendrolagus matschiei" ; Times: 1
+	Query: "ctenomys" ; Times: 1
+	Query: "Brachyphylla cavernarum" ; Times: 1
+	Query: "Caenolestes" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "Molossops temminckii" ; Times: 1
+	Query: "sylvilagus brasiliensis" ; Times: 1
+	Query: "specificepithet:palustris genus:Sylvilagus" ; Times: 1
+	Query: "Glossophaga soricina" ; Times: 1
+	Query: "genus:Ochotona stateprovince:&#34;Oregon&#34;" ; Times: 1
+	Query: "genus:Ctenomys" ; Times: 1
+	Query: "cuniculus paca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;johns&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "&#34;Lepus americanus&#34; stateprovince:&#34;Wisconsin&#34; OR &#34;Minnesota&#34; preparations:skin" ; Times: 2
+	Query: "specificepithet:latrans genus:Canis institutioncode:UF" ; Times: 1
+	Query: "country:&#34;Tanzania&#34;" ; Times: 1
+	Query: "specificepithet:cinerea genus:neotoma stateprovince:&#34;california&#34; OR stateprovince:&#34;nevada&#34;" ; Times: 1
+	Query: "Pygoderma bilabiatum" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Texas&#34; basisofrecord:PreservedSpecimen" ; Times: 5
+	Query: "Anoura" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 1
+	Query: "Glyphonycteris sylvestris" ; Times: 1
+	Query: "dusicyon australis" ; Times: 1
+	Query: "Chironectes" ; Times: 1
+	Query: "Mimon cozumelae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "family:Dasypodidae institutioncode:UF" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "Vampyressa pusilla" ; Times: 1
+	Query: "macropus eugenii" ; Times: 1
+	Query: "Nyctinomops laticaudatus" ; Times: 1
+
+
+End of report.
