@@ -1,0 +1,252 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for September 2018, generated on 2018/10/11
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 188
+Number of records retrieved in searches: 719
+Number of different countries where searches have been originated: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 11
+	Country: Singapore ; Times: 1
+	Country: Philippines ; Times: 2
+	Country: Mexico ; Times: 15
+	Country: India ; Times: 11
+	Country: France ; Times: 1
+	Country: United States ; Times: 142
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 2
+	Country: Spain ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-23 ; Times: 7
+	Date: 2018-09-02 ; Times: 3
+	Date: 2018-09-25 ; Times: 56
+	Date: 2018-09-26 ; Times: 1
+	Date: 2018-09-01 ; Times: 4
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-21 ; Times: 17
+	Date: 2018-09-04 ; Times: 2
+	Date: 2018-09-05 ; Times: 4
+	Date: 2018-09-08 ; Times: 4
+	Date: 2018-09-28 ; Times: 6
+	Date: 2018-09-30 ; Times: 4
+	Date: 2018-09-11 ; Times: 3
+	Date: 2018-09-13 ; Times: 25
+	Date: 2018-09-12 ; Times: 3
+	Date: 2018-09-15 ; Times: 5
+	Date: 2018-09-14 ; Times: 2
+	Date: 2018-09-17 ; Times: 4
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-19 ; Times: 7
+	Date: 2018-09-18 ; Times: 2
+	Date: 2018-09-24 ; Times: 2
+	Date: 2018-09-03 ; Times: 3
+	Date: 2018-09-27 ; Times: 11
+	Date: 2018-09-07 ; Times: 11
+
+List of queries that retrieved data from the resource: 
+	Query: "Ctenomys dorsalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(38.33380491307935,-90.47607421875))&lt;247840.770513055" ; Times: 1
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris" ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(41.79661620239966,-73.51318359375))&lt;247840.770513055" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 1
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.16780206722523,-79.13818359375))&lt;291582" ; Times: 1
+	Query: "genus:Coendou preparations:fluid" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;Arizona&#34; AND (NOT MSB)" ; Times: 1
+	Query: "Corynorhinus rafinesquii mappable:1" ; Times: 1
+	Query: "genus:Didelphis country:&#34;Trinidad&#34;" ; Times: 2
+	Query: "catalognumber:477 institutioncode:UF" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "16678" ; Times: 1
+	Query: "Callosciurus caniceps" ; Times: 2
+	Query: "galictis vittata" ; Times: 2
+	Query: "catalognumber:18099 institutioncode:UF" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.16780206722523,-79.13818359375))&lt;359110.6091394876" ; Times: 1
+	Query: "herpestes javanicus" ; Times: 1
+	Query: "specificepithet:finlaysonii genus:Callosciurus" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 1
+	Query: "specificepithet:maulinus genus:Ctenomys" ; Times: 2
+	Query: "specificepithet:bicolor genus:Ratufa" ; Times: 2
+	Query: "specificepithet:mexicanus genus:Ictidomys" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(38.26482978773833,-88.93798828125))&lt;100000" ; Times: 1
+	Query: "phyllops falcatus" ; Times: 2
+	Query: "specificepithet:speciosus genus:Oecomys" ; Times: 2
+	Query: "genus:Giraffa specificepithet:camelopardalis " ; Times: 1
+	Query: "catalognumber:10678" ; Times: 1
+	Query: "catalognumber:2417 institutioncode:UF" ; Times: 1
+	Query: "specificepithet:deppei genus:Sciurus" ; Times: 2
+	Query: "specificepithet:sumatrensis genus:Rhizomys" ; Times: 2
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 1
+	Query: "Antilocapra americana mappable:1" ; Times: 2
+	Query: "genus:peromyscus county:&#34;Dade&#34; stateprovince:&#34;Florida&#34;" ; Times: 3
+	Query: "Leontopithecus chrysomelas" ; Times: 1
+	Query: "class:Mammalia Coendou prehensilis" ; Times: 1
+	Query: "genus:Liomys specificepithet:salvini " ; Times: 1
+	Query: "peponocephala electra" ; Times: 1
+	Query: "catalognumber:1467 institutioncode:UF" ; Times: 4
+	Query: "catalognumber:18223 institutioncode:UF" ; Times: 2
+	Query: "specificepithet:capensis genus:Georychus" ; Times: 4
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "specificepithet:gliroides genus:Octodontomys" ; Times: 2
+	Query: "merriami parvus" ; Times: 1
+	Query: "specificepithet:tereticaudus genus:Xerospermophilus" ; Times: 2
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "specificepithet:mazama genus:Thomomys" ; Times: 2
+	Query: "specificepithet:concolor genus:Oecomys" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 1
+	Query: "Coendou prehensilis" ; Times: 1
+	Query: "specificepithet:badius genus:Cannomys" ; Times: 2
+	Query: "27792" ; Times: 1
+	Query: "specificepithet:Polionotus genus:Peromyscus stateprovince:&#34;Georgia&#34;" ; Times: 1
+	Query: "specificepithet:merriami genus:Sorex stateprovince:&#34;Washington&#34;" ; Times: 1
+	Query: "specificepithet:stramineus genus:Sciurus" ; Times: 2
+	Query: "genus:Redunca specificepithet:sp." ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "Dermanura gnoma" ; Times: 3
+	Query: "kogia breviceps" ; Times: 1
+	Query: "specificepithet:hispidus genus:Heterogeomys" ; Times: 2
+	Query: "Ctenomys fulvus" ; Times: 1
+	Query: "specificepithet:prevostii genus:Callosciurus" ; Times: 2
+	Query: "Funambulus pennantii" ; Times: 1
+	Query: "catalognumber:30216 institutioncode:UF" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(38.26482978773833,-88.93798828125))&lt;247841" ; Times: 1
+	Query: "catalognumber:17520 institutioncode:UF" ; Times: 1
+	Query: "phloeomys" ; Times: 1
+	Query: "specificepithet:cyanus genus:Spalacopus" ; Times: 2
+	Query: "orcinus orca" ; Times: 2
+	Query: "Panthera tigris tigris" ; Times: 1
+	Query: "24094" ; Times: 1
+	Query: "genus:caenolestes " ; Times: 1
+	Query: "specificepithet:dorsalis genus:Ctenomys" ; Times: 2
+	Query: "specificepithet:lunatus genus:Octodon" ; Times: 2
+	Query: "catalognumber:18027 institutioncode:UF" ; Times: 2
+	Query: "Ateles geoffroyi" ; Times: 2
+	Query: "Giraffa camelopardalis" ; Times: 1
+	Query: "Graomys griseoflavus mappable:1" ; Times: 2
+	Query: "cynomops" ; Times: 1
+	Query: "genus:peromyscus polionotus stateprovince:&#34;Florida&#34; recordedby:sherman" ; Times: 1
+	Query: "specificepithet:fulvus genus:Ctenomys" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(34.73519237920962,-80.06103515625))&lt;291582.01899794535" ; Times: 1
+	Query: "specificepithet:aureogaster genus:Sciurus" ; Times: 2
+	Query: "vntype:specimen specificepithet:borealis genus:Lasiurus distance(location,geopoint(33.567478046890535,-83.00537109375))&lt;100000" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis stateprovince:&#34;Texas&#34; AND (NOT MSB NOT Earth )" ; Times: 1
+	Query: "Saimiri sciureus" ; Times: 3
+	Query: "specificepithet:talarum genus:Ctenomys" ; Times: 2
+	Query: "genus:peromyscus polionotus stateprovince:&#34;Florida&#34; recordedby:Howell year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "class:mammalia (hollywood beach)" ; Times: 1
+	Query: "glyphonycteris" ; Times: 1
+	Query: "Dermanura watsoni" ; Times: 3
+	Query: "coendou prehensilis" ; Times: 8
+	Query: "country:Ecuador scientificname:Artibeus gnomus " ; Times: 1
+	Query: "Orcinus orca" ; Times: 2
+	Query: "(hollywood beach)" ; Times: 1
+	Query: "33513" ; Times: 1
+	Query: "museum specimen coendou prehensilis" ; Times: 1
+	Query: "genus:peromyscus stateprovince:&#34;Florida&#34; recordedby:Howell year &gt;= 1900 year &lt;= 1950" ; Times: 1
+	Query: "specificepithet:alborufus genus:Petaurista" ; Times: 2
+	Query: "specificepithet:damarensis genus:Fukomys" ; Times: 4
+	Query: "tarsier" ; Times: 1
+	Query: "Panthera tigris" ; Times: 9
+	Query: "micronycteris schmidtorum" ; Times: 2
+	Query: "stateprovince:&#34;Florida&#34; recordedby:Chapman" ; Times: 1
+	Query: "family:Didelphidae country:&#34;Trinidad&#34;" ; Times: 2
+	Query: "specificepithet:talpoides genus:Thomomys county:&#34;Yakima&#34;" ; Times: 3
+	Query: "33106" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 2
+	Query: "Glyphonycteris" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 2
+	Query: "Lutrogale perspicillata" ; Times: 1
+	Query: "catalognumber:17189 institutioncode:UF" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 59 (out of 846 download events in this period)
+Total number of records downloaded: 925
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 5
+	Country: Mexico ; Times: 29
+	Country: Singapore ; Times: 1
+	Country: United States ; Times: 22
+	Country: Germany ; Times: 1
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2018-09-04 ; Times: 1
+	Date: 2018-09-10 ; Times: 2
+	Date: 2018-09-16 ; Times: 1
+	Date: 2018-09-13 ; Times: 9
+	Date: 2018-09-11 ; Times: 1
+	Date: 2018-09-25 ; Times: 2
+	Date: 2018-09-26 ; Times: 12
+	Date: 2018-09-27 ; Times: 12
+	Date: 2018-09-06 ; Times: 1
+	Date: 2018-09-07 ; Times: 4
+	Date: 2018-09-22 ; Times: 1
+	Date: 2018-09-23 ; Times: 1
+	Date: 2018-09-19 ; Times: 2
+	Date: 2018-09-15 ; Times: 2
+	Date: 2018-09-08 ; Times: 1
+	Date: 2018-09-28 ; Times: 1
+	Date: 2018-09-18 ; Times: 5
+	Date: 2018-09-21 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "balaenoptera physalus" ; Times: 2
+	Query: "specificepithet:onca genus:panthera year &gt;= 1980 year &lt;= 2018" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes mappable:1" ; Times: 1
+	Query: "DIDELPHIS ALBIVENTRIS" ; Times: 1
+	Query: "Zaglossus OR Tachyglossus" ; Times: 1
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "specificepithet:nippon genus:Cervus mappable:1" ; Times: 1
+	Query: "kogia breviceps" ; Times: 1
+	Query: "specificepithet:concolor genus:Puma mappable:1" ; Times: 1
+	Query: "river otter" ; Times: 1
+	Query: "Herpestes auropunctatus" ; Times: 1
+	Query: "Caluromys philander" ; Times: 1
+	Query: "vntype:specimen genus:vulpes year &gt;= 2000 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "balaenoptera edeni" ; Times: 1
+	Query: "balaenoptera acutorostrata" ; Times: 1
+	Query: "Sus scrofa" ; Times: 1
+	Query: "specificepithet:aries genus:Ovis mappable:1" ; Times: 1
+	Query: "peponocephala electra" ; Times: 1
+	Query: "genus:vulpes continent:europe" ; Times: 1
+	Query: "Inia geoffrensis" ; Times: 1
+	Query: "orcinus orca" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "specificepithet:unicolor genus:Rusa mappable:1" ; Times: 1
+	Query: "lupus dingo" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 1
+	Query: "county:&#34;pennington&#34; stateprovince:&#34;south dakota&#34;" ; Times: 1
+	Query: "Caenolestes fuliginosus" ; Times: 1
+	Query: "aplodontia rufa" ; Times: 1
+	Query: "balaenoptera borealis" ; Times: 1
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "Petaurus breviceps" ; Times: 2
+	Query: "Lutrogale perspicillata" ; Times: 1
+	Query: "vntype:specimen genus:Coendou" ; Times: 1
+	Query: "Ornithorhynchus" ; Times: 1
+	Query: "family:Lemuridae hastissue:1" ; Times: 1
+	Query: "megaptera novaeangliae" ; Times: 1
+	Query: "specificepithet:scrofa genus:Sus mappable:1" ; Times: 1
+	Query: "racoon" ; Times: 1
+	Query: "tamandua mexicana" ; Times: 3
+	Query: "didelphis virginiana" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "specificepithet:elaphus genus:Cervus mappable:1" ; Times: 1
+	Query: "mesoplodon densirostris" ; Times: 4
+	Query: "physeter macrocephalus" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 2
+	Query: "class:Mammalia (baculum)" ; Times: 1
+	Query: "genus:Peromyscus stateprovince:&#34;Michigan&#34;" ; Times: 1
+	Query: "pseudorca crassidens" ; Times: 1
+
+
+End of report.
