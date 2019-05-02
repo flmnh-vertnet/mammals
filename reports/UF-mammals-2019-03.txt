@@ -1,0 +1,253 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for March 2019, generated on 2019/05/02
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 235
+Number of records retrieved in searches: 1289
+Number of different countries where searches have been originated: 8
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 26
+	Country: United States ; Times: 136
+	Country: Netherlands ; Times: 2
+	Country: Mexico ; Times: 27
+	Country: Denmark ; Times: 15
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 26
+	Country: Argentina ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-09 ; Times: 2
+	Date: 2019-03-27 ; Times: 4
+	Date: 2019-03-26 ; Times: 3
+	Date: 2019-03-25 ; Times: 45
+	Date: 2019-03-24 ; Times: 1
+	Date: 2019-03-23 ; Times: 1
+	Date: 2019-03-08 ; Times: 12
+	Date: 2019-03-21 ; Times: 16
+	Date: 2019-03-20 ; Times: 20
+	Date: 2019-03-05 ; Times: 4
+	Date: 2019-03-04 ; Times: 3
+	Date: 2019-03-07 ; Times: 7
+	Date: 2019-03-06 ; Times: 4
+	Date: 2019-03-01 ; Times: 5
+	Date: 2019-03-29 ; Times: 4
+	Date: 2019-03-22 ; Times: 7
+	Date: 2019-03-15 ; Times: 6
+	Date: 2019-03-30 ; Times: 4
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-03 ; Times: 2
+	Date: 2019-03-18 ; Times: 20
+	Date: 2019-03-19 ; Times: 10
+	Date: 2019-03-16 ; Times: 1
+	Date: 2019-03-17 ; Times: 3
+	Date: 2019-03-14 ; Times: 10
+	Date: 2019-03-28 ; Times: 2
+	Date: 2019-03-12 ; Times: 7
+	Date: 2019-03-13 ; Times: 26
+	Date: 2019-03-11 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 2
+	Query: "Reithrodontomys fulvescens" ; Times: 2
+	Query: "country:Ecuador scientificname:Aegialomys galapagoensis " ; Times: 2
+	Query: "Napeozapus insignis" ; Times: 2
+	Query: "15285" ; Times: 1
+	Query: "specificepithet:aurita genus:Didelphis" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 26
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 2
+	Query: "class:Mammalia county:&#34;Archer&#34;" ; Times: 1
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 13
+	Query: "genus:Eptesicus county:&#34;Riverside&#34;" ; Times: 1
+	Query: "specificepithet:maximus genus:Priodontes" ; Times: 1
+	Query: "Panthera onca" ; Times: 8
+	Query: "county:&#34;Archer&#34; stateprovince:&#34;Texas&#34; Reithrodontomys fulvescens" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "specificepithet:bombifrons genus:Erophylla" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "specificepithet:brachyurus genus:Chrysocyon family:Canidae (zoo OR captive) basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "neovison vison" ; Times: 8
+	Query: "specificepithet:rattus genus:Rattus country:&#34;Haiti&#34;" ; Times: 2
+	Query: "specificepithet:scrofa genus:sus month &gt;= 2 month &lt;= 5" ; Times: 2
+	Query: "specificepithet:lupus genus:Canis family:Canidae county:&#34;Koochiching&#34; stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "specificepithet:villosus genus:Chaetophractus" ; Times: 1
+	Query: "catalognumber:25992" ; Times: 1
+	Query: "panthera tigris mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 6
+	Query: "Sciurus carolinensis vntype:specimen hastissue:1" ; Times: 1
+	Query: "Lagenodelphis hosei" ; Times: 2
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 3
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 2
+	Query: "cabassous" ; Times: 2
+	Query: "Urocyon hastissue:1" ; Times: 3
+	Query: "funambulus" ; Times: 1
+	Query: "Dermanura tolteca" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB)" ; Times: 1
+	Query: "Thylamys elegans" ; Times: 1
+	Query: "21113" ; Times: 1
+	Query: "catalognumber:4957" ; Times: 1
+	Query: "(Wheeler) institutioncode:UF" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK)" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 1
+	Query: "class:Mammalia county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "23317" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 3
+	Query: "racoon" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys fernandinae " ; Times: 2
+	Query: "gough island" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 1
+	Query: "genus:Dasypus hastissue:1" ; Times: 1
+	Query: "vntype:specimen specificepithet:venaticus genus:Speothos family:Canidae" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 3
+	Query: "specificepithet:ochrogaster genus:Microtus stateprovince:&#34;Tennessee&#34;" ; Times: 1
+	Query: "specificepithet:hosei genus:lagenodelphis" ; Times: 1
+	Query: "Peromyscus polionotus niveiventris genus:Peromyscus polionotus niveiventris county:&#34;Lucie&#34;" ; Times: 1
+	Query: "specificepithet:nana genus:Brachyphylla" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "lonchophylla mordax" ; Times: 1
+	Query: "catalognumber:10042 institutioncode:UF" ; Times: 3
+	Query: "potamogale" ; Times: 1
+	Query: "33977" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34; Peromyscus leucopus" ; Times: 1
+	Query: "yagouaroundi" ; Times: 1
+	Query: "class:Mammalia funambulus" ; Times: 1
+	Query: "catalognumber:27781" ; Times: 3
+	Query: "specificepithet:nationi genus:Chaetophractus" ; Times: 7
+	Query: "Tamandua mexicana" ; Times: 6
+	Query: "Pteropus temminckii" ; Times: 17
+	Query: "Canis rufus" ; Times: 1
+	Query: "specificepithet:lupus genus:Canis family:Canidae stateprovince:&#34;Minnesota&#34;" ; Times: 1
+	Query: "Gorilla beringei" ; Times: 2
+	Query: "specificepithet:vellerosus genus:Chaetophractus" ; Times: 1
+	Query: "class:Mammalia catalognumber:15926" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 2
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1900 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:sabanicola genus:Dasypus" ; Times: 1
+	Query: "county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34; Onychomys leucogaster" ; Times: 1
+	Query: "county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34; Reithrodontomys fulvescens" ; Times: 1
+	Query: "specificepithet:virginianus genus:odocoileus hastissue:1" ; Times: 1
+	Query: "Pteropus pelewensis" ; Times: 2
+	Query: "catalognumber:1393" ; Times: 1
+	Query: "Coendou mappable:1" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 3
+	Query: "genus:Peromyscus (skeleton) institutioncode:UF" ; Times: 1
+	Query: "locality:triple r ranch" ; Times: 1
+	Query: "genus:Geocapromys" ; Times: 1
+	Query: "vntype:specimen family:Canidae (zoo OR captive) AND (NOT familiaris NOT MSB NOT lupus NOT rom NOT NHMUK NOT PSM NOT AMNH NOT FMNH)" ; Times: 1
+	Query: "specificepithet:hosei genus:lagenodelphis country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:evotis genus:Myotis county:&#34;Torrance&#34; stateprovince:&#34;New Mexico&#34;" ; Times: 1
+	Query: "Cuniculus paca mappable:1" ; Times: 1
+	Query: "genus:Tamias institutioncode:UF" ; Times: 1
+	Query: "Dermanura cinerea" ; Times: 2
+	Query: "Panthera tigris mappable:1" ; Times: 12
+	Query: "neotamias minimus" ; Times: 1
+	Query: "specificepithet:falcatus genus:Phyllops" ; Times: 1
+	Query: "specificepithet:pichiy genus:Zaedyus" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 4
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 72 (out of 1281 download events in this period)
+Total number of records downloaded: 2013
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 7
+	Country: United States ; Times: 38
+	Country: Portugal ; Times: 1
+	Country: Mexico ; Times: 11
+	Country: India ; Times: 2
+	Country: United Kingdom ; Times: 13
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-03-28 ; Times: 1
+	Date: 2019-03-27 ; Times: 3
+	Date: 2019-03-26 ; Times: 1
+	Date: 2019-03-25 ; Times: 3
+	Date: 2019-03-08 ; Times: 7
+	Date: 2019-03-21 ; Times: 4
+	Date: 2019-03-20 ; Times: 4
+	Date: 2019-03-04 ; Times: 1
+	Date: 2019-03-07 ; Times: 5
+	Date: 2019-03-06 ; Times: 3
+	Date: 2019-03-01 ; Times: 1
+	Date: 2019-03-03 ; Times: 4
+	Date: 2019-03-22 ; Times: 7
+	Date: 2019-03-31 ; Times: 2
+	Date: 2019-03-29 ; Times: 2
+	Date: 2019-03-19 ; Times: 3
+	Date: 2019-03-16 ; Times: 2
+	Date: 2019-03-17 ; Times: 1
+	Date: 2019-03-14 ; Times: 9
+	Date: 2019-03-15 ; Times: 2
+	Date: 2019-03-13 ; Times: 6
+	Date: 2019-03-11 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "vntype:specimen specificepithet:novemcinctus genus:Dasypus hastissue:1" ; Times: 1
+	Query: "specificepithet:taxus genus:taxidea" ; Times: 1
+	Query: "specificepithet:gulo" ; Times: 3
+	Query: "Pteropus pelewensis" ; Times: 1
+	Query: "Balantiopteryx io" ; Times: 1
+	Query: "vntype:specimen specificepithet:taylori genus:Baiomys stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Chrotopterus auritus" ; Times: 1
+	Query: "specificepithet:yumanensis genus:myotis county:&#34;Riverside&#34;" ; Times: 1
+	Query: "Acinonyx jubatus" ; Times: 1
+	Query: "Peropteryx kappleri" ; Times: 1
+	Query: "Erophylla bombifrons" ; Times: 1
+	Query: "specificepithet:erminea genus:mustela" ; Times: 5
+	Query: "Tupaia glis" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "Urocyon hastissue:1" ; Times: 1
+	Query: "class:Mammalia county:&#34;Wichita&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Pteropus molossinus" ; Times: 1
+	Query: "allactaga" ; Times: 1
+	Query: "Eptesicus furinalis" ; Times: 1
+	Query: "genus:neovison" ; Times: 1
+	Query: "Sciurus stramineus" ; Times: 2
+	Query: "class:Mammalia funambulus" ; Times: 2
+	Query: "puma concolor" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:Dasypus" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 2
+	Query: "Carollia subrufa" ; Times: 1
+	Query: "vombatus" ; Times: 1
+	Query: "class:Mammalia county:&#34;Hardeman&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Crocuta crocuta" ; Times: 1
+	Query: "Brachyphylla nana" ; Times: 1
+	Query: "thylogale" ; Times: 1
+	Query: "Graomys griseoflavus" ; Times: 1
+	Query: "Pteronotus mesoamericanus" ; Times: 1
+	Query: "specificepithet:fulvescens genus:Reithrodontomys" ; Times: 1
+	Query: "*Urocitellus columbianus" ; Times: 2
+	Query: "Centurio senex" ; Times: 1
+	Query: "specificepithet:barbara" ; Times: 1
+	Query: "class:Mammalia county:&#34;Archer&#34; stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "dendrolagus" ; Times: 1
+	Query: "Melonycteris melanops" ; Times: 1
+	Query: "Lonchophylla mordax" ; Times: 1
+	Query: "Puma yagouaroundi" ; Times: 1
+	Query: "Dermanura cinerea" ; Times: 1
+	Query: "LEOPARDUS PARDALIS" ; Times: 3
+	Query: "panthera onca" ; Times: 2
+	Query: "neotamias minimus" ; Times: 1
+	Query: "stateprovince:&#34;Kentucky&#34; specificepithet:leucopus genus:Peromyscus year &gt;= 1950 year &lt;= 1970" ; Times: 1
+	Query: "Phyllonycteris poeyi" ; Times: 1
+	Query: "Cynictis penicillata" ; Times: 1
+	Query: "Rhynchonycteris naso" ; Times: 1
+	Query: "genus:pongo" ; Times: 1
+	Query: "specificepithet:canadensis genus:lontra" ; Times: 3
+	Query: "Callosciurus erythraeus" ; Times: 1
+	Query: "specificepithet:micropus genus:Neotoma" ; Times: 1
+	Query: "Choeroniscus godmani" ; Times: 1
+	Query: "specificepithet:Alces alces stateprovince:&#34;Alaska&#34;" ; Times: 1
+
+
+End of report.
