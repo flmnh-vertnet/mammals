@@ -1,0 +1,407 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for August 2019, generated on 2019/09/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 407
+Number of records retrieved in searches: 4704
+Number of different countries where searches have been originated: 14
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 62
+	Country: United States ; Times: 204
+	Country: South Africa ; Times: 2
+	Country: Unknown ; Times: 4
+	Country: Mexico ; Times: 42
+	Country: Sweden ; Times: 4
+	Country: United Kingdom ; Times: 76
+	Country: Guatemala ; Times: 1
+	Country: Germany ; Times: 1
+	Country: Peru ; Times: 1
+	Country: Dominican Republic ; Times: 1
+	Country: Argentina ; Times: 4
+	Country: Norway ; Times: 4
+	Country: Russia ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-27 ; Times: 25
+	Date: 2019-08-28 ; Times: 7
+	Date: 2019-08-29 ; Times: 18
+	Date: 2019-08-01 ; Times: 7
+	Date: 2019-08-02 ; Times: 3
+	Date: 2019-08-03 ; Times: 5
+	Date: 2019-08-04 ; Times: 5
+	Date: 2019-08-05 ; Times: 83
+	Date: 2019-08-06 ; Times: 3
+	Date: 2019-08-07 ; Times: 7
+	Date: 2019-08-08 ; Times: 5
+	Date: 2019-08-09 ; Times: 8
+	Date: 2019-08-24 ; Times: 30
+	Date: 2019-08-25 ; Times: 1
+	Date: 2019-08-22 ; Times: 14
+	Date: 2019-08-23 ; Times: 12
+	Date: 2019-08-20 ; Times: 21
+	Date: 2019-08-21 ; Times: 14
+	Date: 2019-08-16 ; Times: 6
+	Date: 2019-08-15 ; Times: 20
+	Date: 2019-08-14 ; Times: 3
+	Date: 2019-08-13 ; Times: 14
+	Date: 2019-08-12 ; Times: 6
+	Date: 2019-08-11 ; Times: 4
+	Date: 2019-08-31 ; Times: 6
+	Date: 2019-08-30 ; Times: 20
+	Date: 2019-08-19 ; Times: 18
+	Date: 2019-08-18 ; Times: 1
+	Date: 2019-08-26 ; Times: 41
+
+List of queries that retrieved data from the resource: 
+	Query: "Tamandua tetradactyla" ; Times: 1
+	Query: "catalognumber:7897 institutioncode:UF" ; Times: 1
+	Query: "Dasyprocta punctata mappable:1" ; Times: 2
+	Query: "Parris" ; Times: 1
+	Query: "specificepithet:subflavus county:&#34;union&#34; stateprovince:&#34;Illinois&#34;" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "mimon cozumelae" ; Times: 2
+	Query: "Steno bredanensis" ; Times: 2
+	Query: "Callithrix penicillata" ; Times: 1
+	Query: "choeroniscus godmani" ; Times: 1
+	Query: "Myotis sodalis" ; Times: 6
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 2
+	Query: "UF 1334 sciurus" ; Times: 1
+	Query: "vntype:specimen specificepithet:schmidtorum genus:Micronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Cebus olivaceus" ; Times: 1
+	Query: "Leopardus pardalis mappable:1" ; Times: 2
+	Query: "Metachirus nudicaudatus" ; Times: 1
+	Query: "Myotis oxyotus" ; Times: 2
+	Query: "Dasypus novemcinctus" ; Times: 1
+	Query: "Holochilus brasiliensis mappable:1" ; Times: 2
+	Query: "Sylvilagus brasiliensis mappable:1" ; Times: 2
+	Query: "Spalacopus cyanus" ; Times: 1
+	Query: "Puma yagouaroundi mappable:1" ; Times: 2
+	Query: "Tapirus terrestris" ; Times: 1
+	Query: "UF 2451" ; Times: 1
+	Query: "Hydrochoerus hydrochaeris mappable:1" ; Times: 2
+	Query: "Macaca mulatta" ; Times: 1
+	Query: "Tamandua tetradactyla mappable:1" ; Times: 2
+	Query: "Panthera onca" ; Times: 10
+	Query: "vntype:specimen specificepithet:leptura genus:Saccopteryx year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Marmosa murina" ; Times: 1
+	Query: "Myotis melanorhinus" ; Times: 1
+	Query: "Mazama americana" ; Times: 1
+	Query: "galictis vittata" ; Times: 6
+	Query: "Myotis mystacinus" ; Times: 1
+	Query: "Myotis austroriparius" ; Times: 1
+	Query: "vntype:specimen genus:homo preparations:skeleton AND (NOT juvenile)" ; Times: 1
+	Query: "20284" ; Times: 1
+	Query: "Leontopithecus rosalia" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "Cervus nippon" ; Times: 1
+	Query: "vntype:specimen specificepithet:yerbabuenae genus:Leptonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Myotis albescens" ; Times: 1
+	Query: "Dasypus sabanicola" ; Times: 1
+	Query: "Nectomys squamipes mappable:1" ; Times: 2
+	Query: "Proechimys guairae" ; Times: 1
+	Query: "Proechimys quadruplicatus" ; Times: 1
+	Query: "stenella coeruleoalba country:&#34;United States&#34;" ; Times: 5
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 2
+	Query: "order:pilosa preparations:skeleton" ; Times: 1
+	Query: "Cavia porcellus" ; Times: 1
+	Query: "Leopardus wiedii mappable:1" ; Times: 2
+	Query: "kogia breviceps" ; Times: 4
+	Query: "Trinomys setosus" ; Times: 1
+	Query: "cavirostris" ; Times: 1
+	Query: "Octodon degus" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 8
+	Query: "Pteronura brasiliensis mappable:1" ; Times: 2
+	Query: "thylacinus cynocephalus" ; Times: 1
+	Query: "class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UF" ; Times: 2
+	Query: "Neotoma macrotis" ; Times: 5
+	Query: "Saguinus oedipus" ; Times: 1
+	Query: "order:cetacea class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34;" ; Times: 2
+	Query: "Marmosops impavidus" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 1
+	Query: "Hylaeamys megacephalus mappable:1" ; Times: 2
+	Query: "UF 1333" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 10
+	Query: "class:Mammalia fieldnumber:1380" ; Times: 1
+	Query: "Oecomys concolor" ; Times: 1
+	Query: "Hoplomys gymnurus" ; Times: 1
+	Query: "catalognumber:24548 institutioncode:UF" ; Times: 1
+	Query: "heteromys irroratus" ; Times: 15
+	Query: "Cuniculus paca mappable:1" ; Times: 2
+	Query: "Myotis leibii" ; Times: 1
+	Query: "Holochilus sciureus mappable:1" ; Times: 2
+	Query: "order:rodentia class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UF" ; Times: 1
+	Query: "Proechimys cuvieri" ; Times: 1
+	Query: "specificepithet:subflavus (JNL )" ; Times: 1
+	Query: "Capromys pilorides" ; Times: 1
+	Query: "24771" ; Times: 3
+	Query: "29919" ; Times: 1
+	Query: "Tonatia bidens" ; Times: 1
+	Query: "Chironectes minimus" ; Times: 1
+	Query: "Humboldtiana" ; Times: 1
+	Query: "Myotis riparius" ; Times: 1
+	Query: "28574" ; Times: 1
+	Query: "Saguinus geoffroyi" ; Times: 1
+	Query: "Sapajus apella" ; Times: 1
+	Query: "class:mammalia county:&#34;san luis obispo&#34; stateprovince:&#34;california&#34; institutioncode:UF" ; Times: 2
+	Query: "UF 2990" ; Times: 1
+	Query: "Geocapromys brownii" ; Times: 1
+	Query: "UF 30080" ; Times: 2
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "country:Ecuador scientificname:Nesoryzomys fernandinae " ; Times: 3
+	Query: "Myotis keenii" ; Times: 1
+	Query: "Mysateles prehensilis" ; Times: 1
+	Query: "tamias striatus vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "panthera tigris" ; Times: 2
+	Query: "Didelphis albiventris" ; Times: 1
+	Query: "Chilonatalus micropus" ; Times: 1
+	Query: "Monodelphis brevicaudata mappable:1" ; Times: 2
+	Query: "UF 31498" ; Times: 1
+	Query: "29929" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsoni genus:Dermanura year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "UF 1333 sciurus" ; Times: 1
+	Query: "lampronycteris brachyotis" ; Times: 2
+	Query: "Physeter macrocephalus country:&#34;United States&#34;" ; Times: 1
+	Query: "specificepithet:subflavus stateprovince:&#34;Illinois&#34; (JNL )" ; Times: 1
+	Query: "18903" ; Times: 1
+	Query: "Balaenoptera edeni" ; Times: 2
+	Query: "glyphonycteris sylvestris" ; Times: 2
+	Query: "Pecari tajacu mappable:1" ; Times: 2
+	Query: "30879" ; Times: 1
+	Query: "Geocapromys ingrahami" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "Sciurus aestuans" ; Times: 1
+	Query: "Thryonomys swinderianus" ; Times: 2
+	Query: "Nelsonia goldmani" ; Times: 4
+	Query: "Neotoma cinerea" ; Times: 6
+	Query: "genus:Ammospermophilus county:&#34;Riverside&#34;" ; Times: 2
+	Query: "order:cingulata preparations:skeleton" ; Times: 6
+	Query: "class:mammalia county:&#34;orange&#34; stateprovince:&#34;california&#34; institutioncode:UF" ; Times: 2
+	Query: "Proechimys brevicauda" ; Times: 1
+	Query: "Galictis vittata" ; Times: 2
+	Query: "Cebus capucinus" ; Times: 1
+	Query: "Plecturocebus cupreus" ; Times: 1
+	Query: "order:chiroptera class:mammalia county:&#34;san bernardino&#34; stateprovince:&#34;california&#34; institutioncode:UF" ; Times: 1
+	Query: "genus:Dusicyon" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 2
+	Query: "nelsonia goldmani" ; Times: 2
+	Query: "Didelphis albiventris mappable:1" ; Times: 2
+	Query: "Saimiri oerstedii" ; Times: 1
+	Query: "tamias striatus vntype:specimen stateprovince:&#34;massachusetts&#34; institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Dactylomys dactylinus" ; Times: 1
+	Query: "UF 8385" ; Times: 3
+	Query: "Galea musteloides mappable:1" ; Times: 2
+	Query: "Tamandua mexicana" ; Times: 1
+	Query: "Mesoplodon europaeus" ; Times: 3
+	Query: "Alouatta palliata" ; Times: 1
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Bos taurus" ; Times: 1
+	Query: "vntype:specimen specificepithet:brachyotis genus:Lampronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "24292" ; Times: 1
+	Query: "Sturnira tildae" ; Times: 1
+	Query: "Cebuella pygmaea" ; Times: 1
+	Query: "Didelphis marsupialis" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Ateles geoffroyi" ; Times: 1
+	Query: "Marmosa murina mappable:1" ; Times: 2
+	Query: "Mazama americana mappable:1" ; Times: 2
+	Query: "Vulpes macrotis" ; Times: 5
+	Query: "catalognumber:6995" ; Times: 1
+	Query: "Cabassous chacoensis" ; Times: 1
+	Query: "Oecomys bicolor mappable:1" ; Times: 2
+	Query: "leopardus colocolo" ; Times: 1
+	Query: "(JNL 1625)" ; Times: 2
+	Query: "country:Ecuador scientificname:Aegialomys galapagoensis " ; Times: 4
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 4
+	Query: "sorex saussurei" ; Times: 1
+	Query: "28575" ; Times: 1
+	Query: "Thylacinus cynocephalus" ; Times: 2
+	Query: "Coendou prehensilis mappable:1" ; Times: 2
+	Query: "Trinomys paratus" ; Times: 1
+	Query: "Marmosops noctivagus mappable:1" ; Times: 2
+	Query: "Plagiodontia aedium" ; Times: 1
+	Query: "Sciurus deppei" ; Times: 1
+	Query: "UF 3417" ; Times: 1
+	Query: "Caluromys lanatus mappable:1" ; Times: 2
+	Query: "Anoura caudifer" ; Times: 1
+	Query: "Octodon lunatus" ; Times: 1
+	Query: "hyperacrius" ; Times: 7
+	Query: "Saimiri sciureus" ; Times: 1
+	Query: "Proechimys kulinae" ; Times: 1
+	Query: "genus:Callosciurus specificepithet:caniceps" ; Times: 1
+	Query: "Aconaemys fuscus" ; Times: 1
+	Query: "UF 8391" ; Times: 2
+	Query: "Crandon Park Zoo" ; Times: 3
+	Query: "glyphonycteris" ; Times: 1
+	Query: "Cabassous chacoensis mappable:1" ; Times: 2
+	Query: "28134" ; Times: 1
+	Query: "Gazella dorcas" ; Times: 1
+	Query: "Proechimys semispinosus" ; Times: 1
+	Query: "specificepithet:australis genus:Dusicyon" ; Times: 3
+	Query: "Bradypus tridactylus" ; Times: 1
+	Query: "Saccopteryx leptura" ; Times: 1
+	Query: "UF 726" ; Times: 1
+	Query: "vntype:specimen specificepithet:kappleri genus:Peropteryx AND (NOT affinis OR minor) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Tayassu pecari mappable:1" ; Times: 2
+	Query: "UF 31476 sciurus" ; Times: 2
+	Query: "country:Ecuador scientificname:Nesoryzomys swarthi " ; Times: 1
+	Query: "Cavia tschudii" ; Times: 1
+	Query: "UF 31371" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonariensis genus:Eumops AND (nanus) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:Maniculatus genus:Peromyscus county:&#34;Berkshire&#34; stateprovince:&#34;Massachusetts&#34;" ; Times: 1
+	Query: "Stenella clymene" ; Times: 2
+	Query: "Feresa attenuata" ; Times: 1
+	Query: "Homo sapiens" ; Times: 1
+	Query: "uf 14545" ; Times: 2
+	Query: "19485" ; Times: 1
+	Query: "Myotis septentrionalis" ; Times: 6
+	Query: "Kogia sima" ; Times: 3
+	Query: "21879" ; Times: 1
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "ectophylla alba" ; Times: 1
+	Query: "Conepatus semistriatus mappable:1" ; Times: 2
+	Query: "Mesomys hispidus" ; Times: 1
+	Query: "Myrmecophaga tridactyla" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "Diclidurus albus" ; Times: 1
+	Query: "genus:hyperacrius year &gt;= 1990 year &lt;= 2020" ; Times: 5
+	Query: "Metachirus nudicaudatus mappable:1" ; Times: 2
+	Query: "lichonycteris obscura" ; Times: 2
+	Query: "tapirus bairdii" ; Times: 1
+	Query: "stenella longirostris country:&#34;United States&#34;" ; Times: 2
+	Query: "Zapus hudsonius" ; Times: 12
+	Query: "Tayassu pecari" ; Times: 1
+	Query: "Nasua nasua mappable:1" ; Times: 2
+	Query: "Proechimys simonsi" ; Times: 1
+	Query: "Zaedyus pichiy" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 2
+	Query: "specificepithet:typus genus:eligmodontia country:&#34;chile&#34;" ; Times: 1
+	Query: "Callithrix jacchus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 101 (out of 1034 download events in this period)
+Total number of records downloaded: 2905
+Number of different countries: 6
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 4
+	Country: Mexico ; Times: 48
+	Country: United States ; Times: 43
+	Country: China ; Times: 2
+	Country: Peru ; Times: 3
+	Country: Ecuador ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2019-08-12 ; Times: 3
+	Date: 2019-08-09 ; Times: 1
+	Date: 2019-08-22 ; Times: 7
+	Date: 2019-08-19 ; Times: 19
+	Date: 2019-08-02 ; Times: 2
+	Date: 2019-08-23 ; Times: 7
+	Date: 2019-08-15 ; Times: 9
+	Date: 2019-08-03 ; Times: 1
+	Date: 2019-08-13 ; Times: 4
+	Date: 2019-08-05 ; Times: 8
+	Date: 2019-08-28 ; Times: 6
+	Date: 2019-08-29 ; Times: 5
+	Date: 2019-08-26 ; Times: 2
+	Date: 2019-08-27 ; Times: 1
+	Date: 2019-08-24 ; Times: 1
+	Date: 2019-08-25 ; Times: 2
+	Date: 2019-08-31 ; Times: 3
+	Date: 2019-08-30 ; Times: 1
+	Date: 2019-08-20 ; Times: 15
+	Date: 2019-08-21 ; Times: 4
+
+List of queries that retrieved data from the resource: 
+	Query: "Balaenoptera edeni" ; Times: 2
+	Query: "Balaenoptera acutorostrata" ; Times: 1
+	Query: "glyphonycteris sylvestris" ; Times: 1
+	Query: "mimon cozumelae" ; Times: 1
+	Query: "EIRA BARBARA" ; Times: 1
+	Query: "uroderma bilobatum" ; Times: 1
+	Query: "vntype:specimen specificepithet:albescens genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Potos" ; Times: 1
+	Query: "lasiurus blossevillii" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:albiventris genus:Noctilio AND (NOT affinis OR minor) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "myotis septentrionalis" ; Times: 1
+	Query: "vntype:specimen specificepithet:evotis genus:Myotis year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "specificepithet:princeps genus:Ochotona" ; Times: 1
+	Query: "corynorhinus rafinesquii" ; Times: 1
+	Query: "choeroniscus godmani" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "phyllostomus discolor" ; Times: 1
+	Query: "mormoops megalophylla" ; Times: 1
+	Query: "vntype:specimen specificepithet:kappleri genus:Peropteryx AND (NOT affinis OR minor) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "hylonycteris underwoodi" ; Times: 1
+	Query: "Lepus californicus" ; Times: 1
+	Query: "Balaenoptera borealis" ; Times: 1
+	Query: "vntype:specimen specificepithet:watsoni genus:Dermanura year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vntype:specimen specificepithet:nigricans genus:myotis preparations:skull" ; Times: 1
+	Query: "lepus americanus" ; Times: 1
+	Query: "vntype:specimen specificepithet:bonariensis genus:Eumops AND (NOT beckeri) year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "chrotopterus auritus" ; Times: 1
+	Query: "Desmodus rotundus" ; Times: 1
+	Query: "myotis velifer" ; Times: 1
+	Query: "nycticeius humeralis" ; Times: 2
+	Query: "Glossophaga leachii" ; Times: 1
+	Query: "Bassariscus" ; Times: 1
+	Query: "vntype:specimen specificepithet:noctivagans genus:Lasionycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "anoura geoffroyi" ; Times: 1
+	Query: "lasiurus borealis" ; Times: 1
+	Query: "choeronycteris mexicana" ; Times: 3
+	Query: "vntype:specimen specificepithet:leptura genus:Saccopteryx year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "vntype:specimen specificepithet:cirrhosus genus:Trachops year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "loxodonta africana" ; Times: 1
+	Query: "Panthera onca" ; Times: 1
+	Query: "myotis californicus" ; Times: 1
+	Query: "stateprovince:&#34;esmeraldas&#34; country:&#34;ecuador&#34;" ; Times: 1
+	Query: "lasionycteris noctivagans" ; Times: 1
+	Query: "ochotona princeps" ; Times: 6
+	Query: "Chaetodipus intermedius" ; Times: 2
+	Query: "myotis thysanodes" ; Times: 1
+	Query: "lasiurus seminolus" ; Times: 1
+	Query: "enchisthenes hartii" ; Times: 1
+	Query: "lampronycteris brachyotis" ; Times: 2
+	Query: "centurio senex" ; Times: 1
+	Query: "irroratus" ; Times: 2
+	Query: "vntype:specimen specificepithet:brachyotis genus:Lampronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "vntype:specimen specificepithet:schmidtorum genus:Micronycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "vampyressa thyone" ; Times: 1
+	Query: "vampyrodes caraccioli" ; Times: 1
+	Query: "Balaenoptera physalus" ; Times: 1
+	Query: "lichonycteris obscura" ; Times: 1
+	Query: "uroderma magnirostrum" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 1
+	Query: "leopardus colocolo" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Minas Gerais&#34;" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "vntype:specimen specificepithet:yerbabuenae genus:Leptonycteris year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "Nasua" ; Times: 1
+	Query: "panthera tigris" ; Times: 4
+	Query: "platyrrhinus helleri" ; Times: 1
+	Query: "alouatta palliata" ; Times: 1
+	Query: "vntype:specimen specificepithet:hartii genus:Enchisthenes year &gt;= 1970 year &lt;= 2019" ; Times: 1
+	Query: "leptonycteris nivalis" ; Times: 1
+	Query: "myotis occultus" ; Times: 1
+	Query: "carollia subrufa" ; Times: 1
+	Query: "corynorhinus townsendii" ; Times: 2
+	Query: "myotis austroriparius" ; Times: 1
+	Query: "diphylla ecaudata" ; Times: 1
+	Query: "genus:Macrotus basisofrecord:PreservedSpecimen hastissue:1" ; Times: 1
+	Query: "specificepithet:Latrans genus:Canis stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "myotis volans" ; Times: 1
+	Query: "eulemur" ; Times: 1
+
+
+End of report.
