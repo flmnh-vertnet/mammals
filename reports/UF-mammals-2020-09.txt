@@ -1,0 +1,574 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for September 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 548
+Number of records retrieved in searches: 1727
+Number of different countries where searches have been originated: 16
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Canada ; Times: 1
+	Country: Brazil ; Times: 6
+	Country: Australia ; Times: 1
+	Country: Peru ; Times: 340
+	Country: Mexico ; Times: 69
+	Country: India ; Times: 3
+	Country: France ; Times: 4
+	Country: United States ; Times: 98
+	Country: Guatemala ; Times: 2
+	Country: United Kingdom ; Times: 1
+	Country: Colombia ; Times: 13
+	Country: Thailand ; Times: 1
+	Country: South Korea ; Times: 2
+	Country: Hong Kong ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Ecuador ; Times: 5
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-09 ; Times: 17
+	Date: 2020-09-08 ; Times: 9
+	Date: 2020-09-03 ; Times: 15
+	Date: 2020-09-01 ; Times: 1
+	Date: 2020-09-07 ; Times: 1
+	Date: 2020-09-06 ; Times: 5
+	Date: 2020-09-05 ; Times: 3
+	Date: 2020-09-21 ; Times: 2
+	Date: 2020-09-20 ; Times: 4
+	Date: 2020-09-23 ; Times: 6
+	Date: 2020-09-22 ; Times: 13
+	Date: 2020-09-25 ; Times: 5
+	Date: 2020-09-24 ; Times: 3
+	Date: 2020-09-27 ; Times: 3
+	Date: 2020-09-26 ; Times: 9
+	Date: 2020-09-29 ; Times: 3
+	Date: 2020-09-28 ; Times: 2
+	Date: 2020-09-14 ; Times: 8
+	Date: 2020-09-15 ; Times: 9
+	Date: 2020-09-16 ; Times: 7
+	Date: 2020-09-17 ; Times: 12
+	Date: 2020-09-10 ; Times: 297
+	Date: 2020-09-11 ; Times: 9
+	Date: 2020-09-12 ; Times: 3
+	Date: 2020-09-13 ; Times: 92
+	Date: 2020-09-18 ; Times: 3
+	Date: 2020-09-19 ; Times: 7
+
+List of queries that retrieved data from the resource: 
+	Query: "FLMNH 30665" ; Times: 1
+	Query: "FLMNH 30664" ; Times: 1
+	Query: "FLMNH 30667" ; Times: 1
+	Query: "FLMNH 30666" ; Times: 1
+	Query: "FLMNH 30661" ; Times: 1
+	Query: "FLMNH 30660" ; Times: 1
+	Query: "FLMNH 30663" ; Times: 1
+	Query: "FLMNH 30662" ; Times: 1
+	Query: "FLMNH 30786" ; Times: 2
+	Query: "FLMNH 30787" ; Times: 1
+	Query: "FLMNH 30784" ; Times: 1
+	Query: "FLMNH 30785" ; Times: 1
+	Query: "FLMNH 30669" ; Times: 1
+	Query: "FLMNH 30668" ; Times: 1
+	Query: "FLMNH 30780" ; Times: 1
+	Query: "FLMNH 30781" ; Times: 1
+	Query: "FLMNH 30788" ; Times: 1
+	Query: "Cricetomys" ; Times: 2
+	Query: "FLMNH 30711" ; Times: 1
+	Query: "FLMNH 30710" ; Times: 1
+	Query: "FLMNH 30713" ; Times: 1
+	Query: "FLMNH 30712" ; Times: 1
+	Query: "FLMNH 30715" ; Times: 1
+	Query: "FLMNH 30714" ; Times: 1
+	Query: "FLMNH 30717" ; Times: 1
+	Query: "FLMNH 30716" ; Times: 1
+	Query: "FLMNH 30719" ; Times: 1
+	Query: "FLMNH 30718" ; Times: 1
+	Query: "vntype:specimen specificepithet:ourebi genus:Ourebia" ; Times: 1
+	Query: "FLMNH 30562" ; Times: 1
+	Query: "FLMNH 30563" ; Times: 1
+	Query: "FLMNH 30560" ; Times: 1
+	Query: "FLMNH 30561" ; Times: 2
+	Query: "FLMNH 30566" ; Times: 2
+	Query: "FLMNH 30567" ; Times: 2
+	Query: "FLMNH 30565" ; Times: 2
+	Query: "FLMNH 30782" ; Times: 1
+	Query: "FLMNH 30568" ; Times: 2
+	Query: "FLMNH 30569" ; Times: 1
+	Query: "FLMNH 30783" ; Times: 1
+	Query: "specificepithet:floridana smalli genus:Neotoma" ; Times: 2
+	Query: "specificepithet:niger genus:sciurus institutioncode:UF" ; Times: 1
+	Query: "scientificname:Reithrodontomys saturatus" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "scientificname:Leopardus tigrinus" ; Times: 2
+	Query: "FLMNH 30752" ; Times: 1
+	Query: "FLMNH 30748" ; Times: 3
+	Query: "specificepithet:ludovicianus genus:Cynomys distance(location,geopoint(38.29518709012489,-100.1220703125))&lt;100000" ; Times: 1
+	Query: "FLMNH 30448" ; Times: 1
+	Query: "FLMNH 30622" ; Times: 1
+	Query: "vntype:specimen specificepithet:cynocephalus genus:Thylacinus" ; Times: 2
+	Query: "specificepithet:floridanus genus:Eumops" ; Times: 1
+	Query: "FLMNH 30445" ; Times: 1
+	Query: "FLMNH 30446" ; Times: 1
+	Query: "23496" ; Times: 1
+	Query: "FLMNH 30742" ; Times: 1
+	Query: "dinomys" ; Times: 1
+	Query: "recordedby:university of michigan museum of zoology" ; Times: 1
+	Query: "FLMNH 30628" ; Times: 1
+	Query: "16794" ; Times: 1
+	Query: "scientificname:Peromyscus difficilis saxicola" ; Times: 1
+	Query: "scientificname:Heteromys irroratus" ; Times: 1
+	Query: "specificepithet:gossypinus allapaticola genus:Peromyscus" ; Times: 2
+	Query: "Spilogale vntype:specimen hastissue:1" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "FLMNH 30621" ; Times: 1
+	Query: "FLMNH 30620" ; Times: 1
+	Query: "FLMNH 30623" ; Times: 1
+	Query: "FLMNH 30749" ; Times: 1
+	Query: "FLMNH 30625" ; Times: 1
+	Query: "FLMNH 30624" ; Times: 1
+	Query: "FLMNH 30627" ; Times: 1
+	Query: "FLMNH 30626" ; Times: 1
+	Query: "FLMNH 30629" ; Times: 1
+	Query: "FLMNH 30743" ; Times: 1
+	Query: "FLMNH 30740" ; Times: 1
+	Query: "FLMNH 30741" ; Times: 1
+	Query: "FLMNH 30746" ; Times: 1
+	Query: "FLMNH 30747" ; Times: 1
+	Query: "FLMNH 30744" ; Times: 1
+	Query: "FLMNH 30745" ; Times: 1
+	Query: "Lonchophylla mordax vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "FLMNH 30559" ; Times: 3
+	Query: "FLMNH 30558" ; Times: 1
+	Query: "FLMNH 30553" ; Times: 2
+	Query: "FLMNH 30552" ; Times: 2
+	Query: "FLMNH 30551" ; Times: 4
+	Query: "FLMNH 30550" ; Times: 2
+	Query: "FLMNH 30557" ; Times: 1
+	Query: "FLMNH 30556" ; Times: 4
+	Query: "FLMNH 30555" ; Times: 2
+	Query: "FLMNH 30554" ; Times: 1
+	Query: "Myocastor hastissue:1" ; Times: 1
+	Query: "catalognumber:25408" ; Times: 1
+	Query: "FLMNH 30522" ; Times: 2
+	Query: "FLMNH 30520" ; Times: 2
+	Query: "specificepithet:rubra genus:Varecia" ; Times: 1
+	Query: "scientificname:Handleyomys alfaroi" ; Times: 1
+	Query: "Choeroniscus minor vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "specificepithet:quadruplicatus genus:Proechimys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "specificepithet:polionotus ammobates genus:Peromyscus" ; Times: 1
+	Query: "scientificname:Peromyscus felipensis" ; Times: 1
+	Query: "bos sauveli" ; Times: 1
+	Query: "specificepithet:ourebi genus:Ourebia" ; Times: 1
+	Query: "scientificname:Peromyscus mexicanus" ; Times: 3
+	Query: "specificepithet:trinitatis genus:oecomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "FLMNH 30773" ; Times: 1
+	Query: "FLMNH 30772" ; Times: 1
+	Query: "FLMNH 30771" ; Times: 1
+	Query: "FLMNH 30770" ; Times: 1
+	Query: "FLMNH 30777" ; Times: 1
+	Query: "FLMNH 30776" ; Times: 1
+	Query: "FLMNH 30775" ; Times: 1
+	Query: "FLMNH 30774" ; Times: 2
+	Query: "Ourebia ourebi ourebi" ; Times: 1
+	Query: "FLMNH 30779" ; Times: 1
+	Query: "FLMNH 30778" ; Times: 1
+	Query: "catalognumber:5848" ; Times: 1
+	Query: "FLMNH 30706" ; Times: 1
+	Query: "FLMNH 30707" ; Times: 1
+	Query: "FLMNH 30704" ; Times: 1
+	Query: "FLMNH 30705" ; Times: 1
+	Query: "FLMNH 30702" ; Times: 1
+	Query: "FLMNH 30703" ; Times: 1
+	Query: "FLMNH 30700" ; Times: 1
+	Query: "FLMNH 30701" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 4
+	Query: "scientificname:Loxodonta cyclotis" ; Times: 4
+	Query: "FLMNH 30708" ; Times: 1
+	Query: "FLMNH 30709" ; Times: 2
+	Query: "Cabassous" ; Times: 3
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 2
+	Query: "FLMNH 30687" ; Times: 1
+	Query: "FLMNH 30686" ; Times: 2
+	Query: "FLMNH 30685" ; Times: 1
+	Query: "FLMNH 30684" ; Times: 1
+	Query: "FLMNH 30683" ; Times: 1
+	Query: "catalognumber:18076" ; Times: 1
+	Query: "FLMNH 30681" ; Times: 1
+	Query: "FLMNH 30680" ; Times: 1
+	Query: "FLMNH 30689" ; Times: 1
+	Query: "scientificname:Cryptotis mexicana mexicana" ; Times: 11
+	Query: "specificepithet:polionotus trissyllepsis genus:Peromyscus" ; Times: 1
+	Query: "FLMNH 30791" ; Times: 2
+	Query: "FLMNH 30678" ; Times: 1
+	Query: "FLMNH 30679" ; Times: 1
+	Query: "FLMNH 30672" ; Times: 1
+	Query: "FLMNH 30673" ; Times: 1
+	Query: "FLMNH 30670" ; Times: 1
+	Query: "FLMNH 30671" ; Times: 1
+	Query: "FLMNH 30676" ; Times: 1
+	Query: "FLMNH 30677" ; Times: 1
+	Query: "FLMNH 30674" ; Times: 1
+	Query: "FLMNH 30675" ; Times: 1
+	Query: "specificepithet:nasua genus:nasua country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 2
+	Query: "specificepithet:cuvieri genus:Proechimys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "genus:Corynorhinus stateprovince:&#34;Kansas&#34;" ; Times: 1
+	Query: "FLMNH 30458" ; Times: 1
+	Query: "FLMNH 30459" ; Times: 1
+	Query: "FLMNH 30456" ; Times: 1
+	Query: "FLMNH 30457" ; Times: 1
+	Query: "FLMNH 30454" ; Times: 1
+	Query: "FLMNH 30455" ; Times: 1
+	Query: "FLMNH 30452" ; Times: 1
+	Query: "FLMNH 30453" ; Times: 1
+	Query: "FLMNH 30450" ; Times: 1
+	Query: "FLMNH 30451" ; Times: 1
+	Query: "scientificname:Peromyscus levipes" ; Times: 2
+	Query: "FLMNH 30580" ; Times: 1
+	Query: "scientificname:Peromyscus aztecus" ; Times: 1
+	Query: "FLMNH 30764" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Proechimys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 4
+	Query: "scientificname:Reithrodontomys fulvescens" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 1
+	Query: "alouatta pigra" ; Times: 3
+	Query: "Leopardus tigrinus" ; Times: 3
+	Query: "catalognumber:10122" ; Times: 1
+	Query: "tapirus bairdii" ; Times: 6
+	Query: "specificepithet:demerarae genus:Marmosa stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:monophyllus (at)" ; Times: 1
+	Query: "FLMNH 30643" ; Times: 1
+	Query: "FLMNH 30642" ; Times: 1
+	Query: "FLMNH 30641" ; Times: 1
+	Query: "FLMNH 30640" ; Times: 1
+	Query: "FLMNH 30647" ; Times: 1
+	Query: "FLMNH 30646" ; Times: 1
+	Query: "FLMNH 30645" ; Times: 1
+	Query: "FLMNH 30644" ; Times: 1
+	Query: "FLMNH 30649" ; Times: 1
+	Query: "FLMNH 30648" ; Times: 2
+	Query: "catalognumber:5339" ; Times: 1
+	Query: "FLMNH 30636" ; Times: 1
+	Query: "FLMNH 30637" ; Times: 1
+	Query: "FLMNH 30634" ; Times: 1
+	Query: "FLMNH 30635" ; Times: 1
+	Query: "FLMNH 30632" ; Times: 1
+	Query: "FLMNH 30633" ; Times: 1
+	Query: "FLMNH 30739" ; Times: 1
+	Query: "FLMNH 30738" ; Times: 1
+	Query: "FLMNH 30737" ; Times: 1
+	Query: "FLMNH 30736" ; Times: 2
+	Query: "scientificname:Chinchilla chinchilla" ; Times: 1
+	Query: "FLMNH 30734" ; Times: 1
+	Query: "FLMNH 30733" ; Times: 1
+	Query: "FLMNH 30732" ; Times: 1
+	Query: "FLMNH 30638" ; Times: 1
+	Query: "FLMNH 30639" ; Times: 1
+	Query: "FLMNH 30548" ; Times: 2
+	Query: "FLMNH 30466" ; Times: 1
+	Query: "FLMNH 30464" ; Times: 1
+	Query: "FLMNH 30463" ; Times: 1
+	Query: "FLMNH 30462" ; Times: 1
+	Query: "FLMNH 30461" ; Times: 1
+	Query: "FLMNH 30460" ; Times: 1
+	Query: "Sylvilagus palustris paludicola" ; Times: 3
+	Query: "micronycteris schmidtorum" ; Times: 1
+	Query: "scientificname:Peromyscus difficilis" ; Times: 3
+	Query: "catalognumber:793 institutioncode:UF" ; Times: 2
+	Query: "MCN" ; Times: 1
+	Query: "FLMNH 30720" ; Times: 2
+	Query: "scientificname:Peromyscus boylii levipes" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "genus:Lontra hastissue:1" ; Times: 1
+	Query: "FLMNH 30471" ; Times: 2
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 1
+	Query: "32708" ; Times: 1
+	Query: "Canis rufus rufus stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 2
+	Query: "Eubalaena glacialis" ; Times: 1
+	Query: "specificepithet:leucopterus genus:Desmalopex" ; Times: 1
+	Query: "FLMNH 30760" ; Times: 1
+	Query: "FLMNH 30761" ; Times: 1
+	Query: "FLMNH 30762" ; Times: 1
+	Query: "FLMNH 30763" ; Times: 1
+	Query: "specificepithet:perenensis genus:hylaeamys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "FLMNH 30765" ; Times: 1
+	Query: "FLMNH 30766" ; Times: 1
+	Query: "FLMNH 30767" ; Times: 1
+	Query: "FLMNH 30768" ; Times: 1
+	Query: "FLMNH 30769" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 4
+	Query: "scientificname:Oligoryzomys fulvescens" ; Times: 2
+	Query: "scientificname:Peromyscus beatae" ; Times: 1
+	Query: "FLMNH 30449" ; Times: 1
+	Query: "FLMNH 30694" ; Times: 1
+	Query: "FLMNH 30695" ; Times: 1
+	Query: "FLMNH 30696" ; Times: 1
+	Query: "FLMNH 30697" ; Times: 1
+	Query: "FLMNH 30690" ; Times: 1
+	Query: "FLMNH 30691" ; Times: 1
+	Query: "FLMNH 30692" ; Times: 1
+	Query: "FLMNH 30693" ; Times: 1
+	Query: "FLMNH 30698" ; Times: 2
+	Query: "FLMNH 30699" ; Times: 2
+	Query: "276 specificepithet:niger genus:sciurus year &gt;= 1970 year &lt;= 2010" ; Times: 1
+	Query: "FLMNH 30599" ; Times: 1
+	Query: "FLMNH 30598" ; Times: 1
+	Query: "FLMNH 30597" ; Times: 1
+	Query: "FLMNH 30596" ; Times: 1
+	Query: "FLMNH 30595" ; Times: 1
+	Query: "FLMNH 30594" ; Times: 1
+	Query: "FLMNH 30593" ; Times: 1
+	Query: "FLMNH 30592" ; Times: 1
+	Query: "FLMNH 30591" ; Times: 1
+	Query: "FLMNH 30590" ; Times: 1
+	Query: "scientificname:Reithrodontomys sumichrasti" ; Times: 2
+	Query: "FLMNH 30609" ; Times: 1
+	Query: "FLMNH 30608" ; Times: 1
+	Query: "FLMNH 30607" ; Times: 1
+	Query: "FLMNH 30606" ; Times: 1
+	Query: "FLMNH 30605" ; Times: 1
+	Query: "FLMNH 30604" ; Times: 1
+	Query: "FLMNH 30603" ; Times: 1
+	Query: "FLMNH 30602" ; Times: 1
+	Query: "FLMNH 30601" ; Times: 1
+	Query: "FLMNH 30600" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "scientificname:Peromyscus melanotis" ; Times: 1
+	Query: "specificepithet:palustris hefneri genus:Sylvilagus" ; Times: 1
+	Query: "FLMNH 30521" ; Times: 3
+	Query: "specificepithet:palustris natator genus:Oryzomys" ; Times: 1
+	Query: "genus:Leopardus hastissue:1" ; Times: 1
+	Query: "homo sapiens" ; Times: 1
+	Query: "Cabassous chacoensis" ; Times: 3
+	Query: "Nesoryzomys" ; Times: 2
+	Query: "genus:oligoryzomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "genus:geomys stateprovince:&#34;illinois&#34;" ; Times: 1
+	Query: "scientificname:Peromyscus gratus" ; Times: 2
+	Query: "family:Herpestidae hastissue:1" ; Times: 1
+	Query: "scientificname:Lagothrix lagotricha" ; Times: 1
+	Query: "FLMNH 30547" ; Times: 2
+	Query: "FLMNH 30650" ; Times: 1
+	Query: "FLMNH 30651" ; Times: 1
+	Query: "FLMNH 30652" ; Times: 1
+	Query: "FLMNH 30653" ; Times: 1
+	Query: "FLMNH 30654" ; Times: 1
+	Query: "FLMNH 30655" ; Times: 1
+	Query: "FLMNH 30656" ; Times: 1
+	Query: "FLMNH 30657" ; Times: 1
+	Query: "FLMNH 30658" ; Times: 1
+	Query: "FLMNH 30659" ; Times: 1
+	Query: "FLMNH 30792" ; Times: 3
+	Query: "catalognumber:17167" ; Times: 1
+	Query: "kerodon rupestris" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 1
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 1
+	Query: "Mesocricetus auratus" ; Times: 2
+	Query: "canis rufus" ; Times: 1
+	Query: "lutrogale perspicillata" ; Times: 1
+	Query: "FLMNH 30728" ; Times: 1
+	Query: "FLMNH 30729" ; Times: 1
+	Query: "scientificname:Cryptotis mexicana" ; Times: 11
+	Query: "FLMNH 30724" ; Times: 1
+	Query: "FLMNH 30725" ; Times: 1
+	Query: "FLMNH 30726" ; Times: 1
+	Query: "FLMNH 30727" ; Times: 1
+	Query: "genus:thylacinus basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "FLMNH 30721" ; Times: 1
+	Query: "FLMNH 30722" ; Times: 1
+	Query: "FLMNH 30723" ; Times: 1
+	Query: "FLMNH 30579" ; Times: 2
+	Query: "FLMNH 30578" ; Times: 1
+	Query: "FLMNH 30472" ; Times: 2
+	Query: "FLMNH 30473" ; Times: 2
+	Query: "FLMNH 30575" ; Times: 3
+	Query: "FLMNH 30574" ; Times: 1
+	Query: "FLMNH 30577" ; Times: 1
+	Query: "FLMNH 30576" ; Times: 1
+	Query: "FLMNH 30571" ; Times: 1
+	Query: "FLMNH 30570" ; Times: 1
+	Query: "FLMNH 30573" ; Times: 1
+	Query: "FLMNH 30572" ; Times: 1
+	Query: "genus:Mesomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "ursus americanus floridanus" ; Times: 1
+	Query: "specificepithet:bison genus:bison stateprovince:&#34;Oklahoma&#34;" ; Times: 1
+	Query: "ellobius" ; Times: 2
+	Query: "genus:Herpestes hastissue:1" ; Times: 1
+	Query: "FLMNH 30630" ; Times: 1
+	Query: "FLMNH 30631" ; Times: 1
+	Query: "galictis vittata" ; Times: 2
+	Query: "&#34;Conepatus leuconotus leuconotus&#34; stateprovince:&#34;texas&#34; country:&#34;united states&#34;" ; Times: 1
+	Query: "FLMNH 30735" ; Times: 1
+	Query: "specificepithet:kulinae genus:Proechimys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Spilogale putorius hastissue:1" ; Times: 1
+	Query: "FLMNH 30731" ; Times: 1
+	Query: "FLMNH 30730" ; Times: 1
+	Query: "27933" ; Times: 1
+	Query: "FLMNH 30549" ; Times: 2
+	Query: "genus:Nectomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "homo" ; Times: 1
+	Query: "scientificname:Cryptotis obscura" ; Times: 11
+	Query: "nasua nasua country:&#34;Colombia&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "catalognumber:23805" ; Times: 1
+	Query: "scientificname:Loxodonta africana" ; Times: 5
+	Query: "FLMNH 30755" ; Times: 1
+	Query: "FLMNH 30754" ; Times: 1
+	Query: "FLMNH 30757" ; Times: 1
+	Query: "FLMNH 30756" ; Times: 1
+	Query: "FLMNH 30751" ; Times: 1
+	Query: "FLMNH 30750" ; Times: 1
+	Query: "FLMNH 30753" ; Times: 1
+	Query: "Vampyressa pusilla vntype:specimen preparations:skull" ; Times: 1
+	Query: "specificepithet:macconnelli genus:Euryoryzomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "FLMNH 30759" ; Times: 1
+	Query: "FLMNH 30758" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 2
+	Query: "scientificname:Cebus capucinus" ; Times: 1
+	Query: "FLMNH 30468" ; Times: 2
+	Query: "Lonchophylla mordax" ; Times: 1
+	Query: "scientificname:Nasua narica" ; Times: 1
+	Query: "24760" ; Times: 1
+	Query: "16649" ; Times: 1
+	Query: "scientificname:Reithrodontomys megalotis saturatus" ; Times: 1
+	Query: "genus:Myoprocta stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "FLMNH 30588" ; Times: 1
+	Query: "FLMNH 30589" ; Times: 1
+	Query: "23790" ; Times: 1
+	Query: "FLMNH 30586" ; Times: 1
+	Query: "FLMNH 30587" ; Times: 1
+	Query: "specificepithet:striatus genus:Tamias stateprovince:&#34;georgia&#34; year &gt;= 2005 year &lt;= 2020" ; Times: 1
+	Query: "FLMNH 30581" ; Times: 1
+	Query: "FLMNH 30582" ; Times: 1
+	Query: "FLMNH 30583" ; Times: 1
+	Query: "FLMNH 30618" ; Times: 1
+	Query: "FLMNH 30619" ; Times: 1
+	Query: "FLMNH 30614" ; Times: 3
+	Query: "FLMNH 30615" ; Times: 2
+	Query: "FLMNH 30616" ; Times: 1
+	Query: "FLMNH 30617" ; Times: 1
+	Query: "FLMNH 30610" ; Times: 1
+	Query: "FLMNH 30611" ; Times: 1
+	Query: "FLMNH 30612" ; Times: 1
+	Query: "FLMNH 30613" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 3
+	Query: "specificepithet:pennsylvanicus dukecampbelli genus:Microtus" ; Times: 1
+	Query: "specificepithet:marsupialis genus:Didelphis stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 2
+	Query: "genus:oecomys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "FLMNH 30682" ; Times: 1
+	Query: "specificepithet:townsendii virginianus genus:Corynorhinus" ; Times: 2
+	Query: "25093" ; Times: 1
+	Query: "26760" ; Times: 1
+	Query: "mappable:1 scientificname:Sciurus niger shermani" ; Times: 1
+	Query: "FLMNH 30688" ; Times: 1
+	Query: "31631" ; Times: 1
+	Query: "specificepithet:megalophylla genus:Mormoops country:&#34;United States&#34;" ; Times: 2
+	Query: "Cricetomys gambianus vntype:specimen institutioncode:UF" ; Times: 1
+	Query: "Procyon lotor elucus" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 75 (out of 976 download events in this period)
+Total number of records downloaded: 3744
+Number of different countries: 10
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: United States ; Times: 53
+	Country: Chile ; Times: 3
+	Country: Mexico ; Times: 7
+	Country: Panama ; Times: 2
+	Country: Costa Rica ; Times: 1
+	Country: United Kingdom ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Colombia ; Times: 2
+	Country: Spain ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-09-14 ; Times: 2
+	Date: 2020-09-21 ; Times: 3
+	Date: 2020-09-23 ; Times: 2
+	Date: 2020-09-17 ; Times: 7
+	Date: 2020-09-10 ; Times: 4
+	Date: 2020-09-11 ; Times: 6
+	Date: 2020-09-12 ; Times: 2
+	Date: 2020-09-13 ; Times: 2
+	Date: 2020-09-29 ; Times: 5
+	Date: 2020-09-28 ; Times: 1
+	Date: 2020-09-26 ; Times: 2
+	Date: 2020-09-18 ; Times: 6
+	Date: 2020-09-30 ; Times: 2
+	Date: 2020-09-06 ; Times: 2
+	Date: 2020-09-09 ; Times: 13
+	Date: 2020-09-22 ; Times: 3
+	Date: 2020-09-03 ; Times: 1
+	Date: 2020-09-04 ; Times: 2
+	Date: 2020-09-20 ; Times: 2
+	Date: 2020-09-24 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;san bernardino&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "specificepithet:gibbsii genus:Neurotrichus" ; Times: 1
+	Query: "specificepithet:townsendii virginianus genus:Corynorhinus" ; Times: 1
+	Query: "specificepithet:lupus genus:canis continent:North America" ; Times: 1
+	Query: "Lepus americanus" ; Times: 1
+	Query: "specificepithet:vulpes genus:vulpes" ; Times: 1
+	Query: "didelphis marsupialis" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Lasiurus seminolus" ; Times: 1
+	Query: "sus scrofa continent:north america" ; Times: 1
+	Query: "Scotinomys xerampelinus" ; Times: 1
+	Query: "Procyon cancrivorus" ; Times: 1
+	Query: "ailurus" ; Times: 1
+	Query: "specificepithet:concolor genus:puma continent:North America" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Proechimys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "lophostoma silvicolum vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "abrothrix longipilis" ; Times: 2
+	Query: "condylura cristata" ; Times: 1
+	Query: "family:emballonuridae" ; Times: 1
+	Query: "curacao" ; Times: 2
+	Query: "Phyllostomus elongatus vntype:specimen basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Lasionycteris noctivagans" ; Times: 1
+	Query: "specificepithet:grisescens genus:Myotis" ; Times: 2
+	Query: "Ourebia ourebi" ; Times: 1
+	Query: "specificepithet:cristata genus:Condylura" ; Times: 1
+	Query: "THYLAMYS ELEGANS" ; Times: 1
+	Query: "specificepithet:americana genus:Martes" ; Times: 1
+	Query: "Myocastor coypus continent:north america" ; Times: 1
+	Query: "genus:Tamiasciurus" ; Times: 1
+	Query: "peromyscus eremicus" ; Times: 1
+	Query: "Lasiurus borealis" ; Times: 1
+	Query: "specificepithet:merriami genus:dipodomys county:&#34;riverside&#34; stateprovince:&#34;California&#34; year &gt;= 1800 year &lt;= 1952" ; Times: 1
+	Query: "order:Chiroptera stateprovince:&#34;Missouri&#34;" ; Times: 1
+	Query: "myotis californicus" ; Times: 3
+	Query: "genus:Martes specificepithet:americana*" ; Times: 2
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "specificepithet:lagopus genus:Vulpes" ; Times: 2
+	Query: "Glaucomys sabrinus" ; Times: 1
+	Query: "Corynorhinus rafinesquii" ; Times: 1
+	Query: "family:Canidae hastissue:1" ; Times: 1
+	Query: "Corynorhinus townsendii" ; Times: 1
+	Query: "specificepithet:arctos genus:ursus" ; Times: 1
+	Query: "specificepithet:americanus genus:ursus" ; Times: 1
+	Query: "Urocitellus columbianus" ; Times: 1
+	Query: "specificepithet:quadruplicatus genus:Proechimys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "chironectes minimus" ; Times: 1
+	Query: "Leopardus tigrinus" ; Times: 1
+	Query: "cervus canadensis" ; Times: 1
+	Query: "Eptesicus fuscus" ; Times: 1
+	Query: "Aplodontia" ; Times: 1
+	Query: "myotis yumanensis" ; Times: 2
+	Query: "specificepithet:cuvieri genus:Proechimys stateprovince:&#34;Loreto&#34; country:&#34;Peru&#34;" ; Times: 1
+	Query: "Cryptotis parva" ; Times: 1
+	Query: "panthera onca" ; Times: 2
+	Query: "specificepithet:canadensis genus:ovis" ; Times: 2
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "vntype:specimen class:mammalia stateprovince:&#34;new mexico&#34;" ; Times: 1
+	Query: "Glaucomys volans" ; Times: 1
+	Query: "Caluromys derbianus" ; Times: 1
+	Query: "canis rufus" ; Times: 1
+	Query: "Cricetomys gambianus" ; Times: 1
+	Query: "specificepithet:polionotus ammobates genus:Peromyscus" ; Times: 1
+	Query: "Erethizon dorsatum" ; Times: 1
+	Query: "specificepithet:lupus genus:canis" ; Times: 1
+	Query: "specificepithet:lagopus genus:vulpes" ; Times: 1
+
+
+End of report.
