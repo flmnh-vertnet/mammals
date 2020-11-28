@@ -1,0 +1,304 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for July 2020, generated on 2020/11/28
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 252
+Number of records retrieved in searches: 1991
+Number of different countries where searches have been originated: 20
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 15
+	Country: Canada ; Times: 1
+	Country: Netherlands ; Times: 2
+	Country: Honduras ; Times: 2
+	Country: Peru ; Times: 6
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 5
+	Country: India ; Times: 3
+	Country: Costa Rica ; Times: 2
+	Country: France ; Times: 19
+	Country: United Kingdom ; Times: 4
+	Country: Malaysia ; Times: 26
+	Country: Colombia ; Times: 4
+	Country: Sri Lanka ; Times: 1
+	Country: Japan ; Times: 1
+	Country: Argentina ; Times: 6
+	Country: Bolivia ; Times: 2
+	Country: United States ; Times: 132
+	Country: Ecuador ; Times: 18
+	Country: Ukraine ; Times: 1
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 10
+	Date: 2020-07-08 ; Times: 2
+	Date: 2020-07-21 ; Times: 22
+	Date: 2020-07-20 ; Times: 8
+	Date: 2020-07-27 ; Times: 5
+	Date: 2020-07-26 ; Times: 3
+	Date: 2020-07-25 ; Times: 6
+	Date: 2020-07-22 ; Times: 7
+	Date: 2020-07-01 ; Times: 1
+	Date: 2020-07-03 ; Times: 5
+	Date: 2020-07-02 ; Times: 9
+	Date: 2020-07-05 ; Times: 2
+	Date: 2020-07-04 ; Times: 3
+	Date: 2020-07-07 ; Times: 43
+	Date: 2020-07-06 ; Times: 7
+	Date: 2020-07-24 ; Times: 7
+	Date: 2020-07-23 ; Times: 12
+	Date: 2020-07-29 ; Times: 13
+	Date: 2020-07-18 ; Times: 8
+	Date: 2020-07-19 ; Times: 5
+	Date: 2020-07-12 ; Times: 2
+	Date: 2020-07-13 ; Times: 6
+	Date: 2020-07-10 ; Times: 4
+	Date: 2020-07-11 ; Times: 3
+	Date: 2020-07-16 ; Times: 6
+	Date: 2020-07-31 ; Times: 3
+	Date: 2020-07-14 ; Times: 10
+	Date: 2020-07-17 ; Times: 8
+	Date: 2020-07-15 ; Times: 14
+	Date: 2020-07-28 ; Times: 17
+	Date: 2020-07-30 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "specificepithet:cinereus genus:sorex county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "fieldnumber:2451" ; Times: 1
+	Query: "country:Ecuador scientificname:Aegialomys galapagoensis " ; Times: 2
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;st johns&#34; stateprovince:&#34;florida&#34;" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "specificepithet:quasiater genus:Microtus country:&#34;Mexico&#34;" ; Times: 2
+	Query: "Pseudorca crassidens mappable:1" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UF" ; Times: 3
+	Query: "Lagenodelphis hosei mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 4
+	Query: "Ziphius cavirostris mappable:1" ; Times: 1
+	Query: "inia" ; Times: 1
+	Query: "Balaenoptera edeni mappable:1" ; Times: 1
+	Query: "okapia" ; Times: 1
+	Query: "32839" ; Times: 1
+	Query: "Stenella frontalis" ; Times: 1
+	Query: "Viverra tangalunga" ; Times: 1
+	Query: "genus:Microcavia" ; Times: 1
+	Query: "Stenella coeruleoalba mappable:1" ; Times: 1
+	Query: "specificepithet:polionotus genus:peromyscus stateprovince:&#34;florida&#34; hastissue:1" ; Times: 2
+	Query: "catalognumber:19094 institutioncode:UF" ; Times: 2
+	Query: "specificepithet:quasiater genus:Microtus" ; Times: 1
+	Query: "Chamberlain year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "genus:Spilogale hastissue:1" ; Times: 6
+	Query: "genus:golunda" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "leopardus geoffroyi" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM)" ; Times: 1
+	Query: "UF 3360" ; Times: 1
+	Query: "genus:Oryzomys" ; Times: 2
+	Query: "23686" ; Times: 2
+	Query: "vntype:specimen genus:Spilogale hastissue:1" ; Times: 2
+	Query: "catalognumber:2201 year &gt;= 1932" ; Times: 1
+	Query: "catalognumber:16553" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 3
+	Query: "genus:Peromyscus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Blarina county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Globicephala macrorhynchus mappable:1" ; Times: 1
+	Query: "Balaenoptera acutorostrata mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 5
+	Query: "catalognumber:7478" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 3
+	Query: "genus:Peromyscus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "manis crassicaudata continent:Asia" ; Times: 1
+	Query: "13222" ; Times: 1
+	Query: "Mesoplodon europaeus mappable:1" ; Times: 1
+	Query: "Caluromys lanatus" ; Times: 5
+	Query: "Capricornis" ; Times: 1
+	Query: "genus:Blarina county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "family:Rhinonycteridae" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 2
+	Query: "Feresa attenuata mappable:1" ; Times: 1
+	Query: "19966" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 2
+	Query: "genus:okapia class:mammalia" ; Times: 1
+	Query: "specificepithet:cinereus genus:sorex county:&#34;Franklin&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Steno bredanensis mappable:1" ; Times: 1
+	Query: "Megaptera novaeangliae mappable:1" ; Times: 1
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "Saxicola vntype:specimen institutioncode:UF basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "chiroptera Campeche" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Vampyressa thyone" ; Times: 2
+	Query: "Dactylomys" ; Times: 2
+	Query: "ratufa bicolor" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 10
+	Query: "specificepithet:polionotus genus:peromyscus county:&#34;flagler&#34; stateprovince:&#34;florida&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "genus:Antilocapra" ; Times: 3
+	Query: "dactylomys" ; Times: 3
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "Stenella clymene mappable:1" ; Times: 1
+	Query: "mus caroli" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "genus:alticola country:&#34;pakistan&#34;" ; Times: 12
+	Query: "order:Rodentia county:&#34;Franklin&#34; stateprovince:&#34;New York&#34;" ; Times: 2
+	Query: "Chrysocyon brachyurus" ; Times: 2
+	Query: "Loxodonta basisofrecord:PreservedSpecimen" ; Times: 3
+	Query: "Stenella longirostris mappable:1" ; Times: 1
+	Query: "Leopardus colocolo" ; Times: 1
+	Query: "Canis rufus" ; Times: 4
+	Query: "Physeter macrocephalus mappable:1" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 9
+	Query: "Cabassous chacoensis" ; Times: 2
+	Query: "leopardus colocolo" ; Times: 4
+	Query: "Ziphius" ; Times: 1
+	Query: "Leopardus colocolo hasmass:0" ; Times: 1
+	Query: "Chiropodomys gliroides\\\\\\\\\\\\" ; Times: 1
+	Query: "specificepithet:chrotorrhinus genus:Microtus stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "specificepithet:maniculatus genus:Peromyscus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "genus:Microtus county:&#34;Essex&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "nasua nasua" ; Times: 1
+	Query: "ziphius cavirostris" ; Times: 1
+	Query: "genus:sorex county:&#34;Franklin&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "28567" ; Times: 1
+	Query: "23630" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 8
+	Query: "Kogia breviceps mappable:1" ; Times: 1
+	Query: "preparations:baleen (eubalaena glacialis)" ; Times: 2
+	Query: "Myrmecophaga" ; Times: 1
+	Query: "28078" ; Times: 2
+	Query: "Ratufa bicolor" ; Times: 2
+	Query: "Prionailurus bengalensis" ; Times: 1
+	Query: "makalata" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "31031" ; Times: 1
+	Query: "Stenella frontalis mappable:1" ; Times: 1
+	Query: "Kogia sima mappable:1" ; Times: 1
+	Query: "genus:Akodon" ; Times: 1
+	Query: "Orcinus orca mappable:1" ; Times: 1
+	Query: "ectophylla alba" ; Times: 2
+	Query: "UF 3660" ; Times: 1
+	Query: "Chiropodomys gliroides" ; Times: 21
+	Query: "Grampus griseus mappable:1" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 3
+	Query: "27947" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;pennsylvania&#34; recordedby:richmond year &gt;= 1948" ; Times: 1
+	Query: "specificepithet:brevicauda genus:Blarina county:&#34;Hamilton&#34; stateprovince:&#34;New York&#34;" ; Times: 1
+	Query: "Brachylagus idahoensis" ; Times: 2
+	Query: "genus:Oligoryzomys" ; Times: 2
+	Query: "class:mammalia stateprovince:&#34;pennsylvania&#34; recordedby:richmond year &gt;= 1947" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;pennsylvania&#34; recordedby:richmond year &gt;= 1946" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;pennsylvania&#34; recordedby:richmond year &gt;= 1945" ; Times: 1
+	Query: "class:mammalia stateprovince:&#34;pennsylvania&#34; recordedby:richmond year &gt;= 1944" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "Erythrocebus" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 67 (out of 940 download events in this period)
+Total number of records downloaded: 22197
+Number of different countries: 12
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 19
+	Country: Canada ; Times: 2
+	Country: Colombia ; Times: 9
+	Country: Mexico ; Times: 3
+	Country: Unknown ; Times: 1
+	Country: India ; Times: 1
+	Country: Costa Rica ; Times: 1
+	Country: United States ; Times: 26
+	Country: Chile ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Russia ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-07-09 ; Times: 1
+	Date: 2020-07-08 ; Times: 3
+	Date: 2020-07-21 ; Times: 7
+	Date: 2020-07-27 ; Times: 1
+	Date: 2020-07-22 ; Times: 4
+	Date: 2020-07-03 ; Times: 3
+	Date: 2020-07-02 ; Times: 1
+	Date: 2020-07-05 ; Times: 1
+	Date: 2020-07-07 ; Times: 2
+	Date: 2020-07-06 ; Times: 6
+	Date: 2020-07-23 ; Times: 3
+	Date: 2020-07-29 ; Times: 1
+	Date: 2020-07-18 ; Times: 2
+	Date: 2020-07-19 ; Times: 2
+	Date: 2020-07-13 ; Times: 3
+	Date: 2020-07-10 ; Times: 2
+	Date: 2020-07-11 ; Times: 1
+	Date: 2020-07-30 ; Times: 2
+	Date: 2020-07-31 ; Times: 1
+	Date: 2020-07-14 ; Times: 2
+	Date: 2020-07-17 ; Times: 1
+	Date: 2020-07-15 ; Times: 1
+	Date: 2020-07-16 ; Times: 9
+	Date: 2020-07-28 ; Times: 8
+
+List of queries that retrieved data from the resource: 
+	Query: "genus:Lynx distance(location,geopoint(38.15709787129506,-112.20703125))&lt;2365818.802354772" ; Times: 1
+	Query: "specificepithet:niger genus:Sciurus" ; Times: 1
+	Query: "order:Chiroptera country:&#34;Belize&#34;" ; Times: 1
+	Query: "Tursiops truncatus" ; Times: 1
+	Query: "nasua nasua" ; Times: 2
+	Query: "leopardus wiedii" ; Times: 1
+	Query: "oligoryzomys longicaudatus" ; Times: 1
+	Query: "Stenella attenuata" ; Times: 1
+	Query: "class:Mammalia country:&#34;Brazil&#34;" ; Times: 1
+	Query: "vntype:specimen specificepithet:carolinensis genus:Sciurus" ; Times: 1
+	Query: "genus:Conepatus institutioncode:UF" ; Times: 1
+	Query: "Leopardus pardalis" ; Times: 1
+	Query: "genus:Peromyscus" ; Times: 1
+	Query: "Chamberlain year &gt;= 1928 year &lt;= 1928" ; Times: 1
+	Query: "bat year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "dactylomys" ; Times: 2
+	Query: "eira barbara" ; Times: 1
+	Query: "family:Canidae (zoo OR captive) AND (NOT lupus NOT latrans NOT MSB NOT OMNH NOT ROM NOT AMNH NOT CAS NOT HSU NOT DMNS NOT FMNH NOT LACM NOT NHMUK NOT MSU NOT KU NOT PSM NOT UMMZ)" ; Times: 1
+	Query: "class:Mammalia country:&#34;Ecuador&#34;" ; Times: 1
+	Query: "genus:Panthera distance(location,geopoint(5.063102863259693,-104.00713028759438))&lt;4433185" ; Times: 1
+	Query: "vntype:specimen genus:Peromyscus" ; Times: 1
+	Query: "isothrix" ; Times: 1
+	Query: "stenella attenuata" ; Times: 1
+	Query: "Chrysocyon brachyurus" ; Times: 1
+	Query: "manis crassicaudata continent:Asia" ; Times: 1
+	Query: "caenolestes" ; Times: 1
+	Query: "specificepithet:pinetorum genus:Microtus" ; Times: 1
+	Query: "puma yagouaroundi" ; Times: 1
+	Query: "Megaptera novaeangliae" ; Times: 1
+	Query: "puma concolor" ; Times: 2
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "specificepithet:quasiater genus:Microtus" ; Times: 1
+	Query: "Stenella frontalis" ; Times: 1
+	Query: "specificepithet:nelsoni genus:Chaetodipus" ; Times: 2
+	Query: "genus:ochotona" ; Times: 2
+	Query: "genus:Puma" ; Times: 1
+	Query: "ectophylla alba" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "ursus maritimus" ; Times: 1
+	Query: "fluid vntype:specimen order:Chiroptera" ; Times: 1
+	Query: "vntype:specimen order:Chiroptera preparations:FLuid basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Echinosorex" ; Times: 1
+	Query: "cetacea" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "leopardus tigrinus" ; Times: 1
+	Query: "Tachyoryctes" ; Times: 1
+	Query: "family:felidae" ; Times: 1
+	Query: "panthera onca" ; Times: 1
+	Query: "Nasua nasua" ; Times: 2
+	Query: "genus:Lasionycteris continent:North America year &gt;= 1899 year &lt;= 2020 month &gt;= 6 month &lt;= 8" ; Times: 1
+	Query: "Conepatus semistriatus" ; Times: 1
+	Query: "Stenella longirostris" ; Times: 1
+	Query: "manis pentadactyla continent:Asia" ; Times: 1
+	Query: "callosciurus" ; Times: 1
+	Query: "potos flavus" ; Times: 2
+	Query: "chiroptera Campeche" ; Times: 1
+	Query: "specificepithet:volans genus:Glaucomys" ; Times: 1
+	Query: "Speothos venaticus" ; Times: 1
+	Query: "Peromyscus gossypinus vntype:specimen" ; Times: 1
+
+
+End of report.
