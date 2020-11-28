@@ -1,0 +1,155 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for June 2020, generated on 2020/11/27
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 175
+Number of records retrieved in searches: 520
+Number of different countries where searches have been originated: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 33
+	Country: United States ; Times: 56
+	Country: Italy ; Times: 1
+	Country: Peru ; Times: 4
+	Country: Mexico ; Times: 2
+	Country: Unknown ; Times: 3
+	Country: Poland ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 3
+	Country: United Kingdom ; Times: 59
+	Country: Germany ; Times: 1
+	Country: Chile ; Times: 1
+	Country: Colombia ; Times: 2
+	Country: Bolivia ; Times: 5
+	Country: Argentina ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-20 ; Times: 2
+	Date: 2020-06-05 ; Times: 5
+	Date: 2020-06-24 ; Times: 1
+	Date: 2020-06-26 ; Times: 1
+	Date: 2020-06-08 ; Times: 4
+	Date: 2020-06-09 ; Times: 6
+	Date: 2020-06-15 ; Times: 1
+	Date: 2020-06-07 ; Times: 2
+	Date: 2020-06-04 ; Times: 17
+	Date: 2020-06-16 ; Times: 1
+	Date: 2020-06-11 ; Times: 21
+	Date: 2020-06-03 ; Times: 4
+	Date: 2020-06-13 ; Times: 2
+	Date: 2020-06-01 ; Times: 37
+	Date: 2020-06-14 ; Times: 3
+	Date: 2020-06-27 ; Times: 1
+	Date: 2020-06-29 ; Times: 1
+	Date: 2020-06-10 ; Times: 24
+	Date: 2020-06-12 ; Times: 12
+	Date: 2020-06-30 ; Times: 1
+	Date: 2020-06-17 ; Times: 29
+
+List of queries that retrieved data from the resource: 
+	Query: "Dactylomys" ; Times: 5
+	Query: "papagomys" ; Times: 1
+	Query: "orcinus" ; Times: 1
+	Query: "mustela asia" ; Times: 2
+	Query: "order:Eulipotyphla stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Cervus elaphus" ; Times: 6
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 5
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 1
+	Query: "solor" ; Times: 1
+	Query: "catalognumber:4018" ; Times: 1
+	Query: "stateprovince:&#34;Massachusetts&#34; (neovison vison)" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 2
+	Query: "UF 28144" ; Times: 1
+	Query: "Neotoma lepida" ; Times: 9
+	Query: "UF 28143" ; Times: 1
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 3
+	Query: "genus:echinosorex" ; Times: 1
+	Query: "Sus scrofa" ; Times: 6
+	Query: "specificepithet:velox genus:Vulpes stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 3
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "genus:Neofelis" ; Times: 1
+	Query: "Homo sapiens" ; Times: 18
+	Query: "Macaca mulatta" ; Times: 6
+	Query: "Mesoplodon europaeus" ; Times: 1
+	Query: "Aotus lemurinus" ; Times: 2
+	Query: "Bos taurus" ; Times: 6
+	Query: "Paraechinus" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 4
+	Query: "coendou" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Geomys arenarius" ; Times: 1
+	Query: "catalognumber: 3742" ; Times: 1
+	Query: "CENTRONYCTERIS MAXIMILIANI" ; Times: 33
+	Query: "Bubalus bubalis" ; Times: 3
+	Query: "catalognumber:19611" ; Times: 1
+	Query: "Neotamias cinereicollis" ; Times: 4
+	Query: "racoon" ; Times: 1
+	Query: "specificepithet:europaeus genus:Mesoplodon" ; Times: 3
+	Query: "Paraechinus micropus" ; Times: 1
+	Query: "Rusa unicolor" ; Times: 6
+	Query: "stateprovince:&#34;Connecticut&#34; (neovison vison)" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 2
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "genus:mus specificepithet:caroli" ; Times: 2
+	Query: "RT 286" ; Times: 2
+	Query: "Brachylagus idahoensis" ; Times: 5
+	Query: "catalognumber:25187" ; Times: 1
+	Query: "schmidtorum" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 5
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 1
+	Query: "Lasiurus blossevillii" ; Times: 1
+	Query: "class:mammalia (10058)" ; Times: 2
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 26 (out of 474 download events in this period)
+Total number of records downloaded: 1077
+Number of different countries: 7
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 3
+	Country: Poland ; Times: 2
+	Country: Nepal ; Times: 1
+	Country: India ; Times: 1
+	Country: United States ; Times: 15
+	Country: Colombia ; Times: 2
+	Country: Bolivia ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-06-08 ; Times: 3
+	Date: 2020-06-09 ; Times: 2
+	Date: 2020-06-06 ; Times: 2
+	Date: 2020-06-11 ; Times: 4
+	Date: 2020-06-04 ; Times: 6
+	Date: 2020-06-02 ; Times: 2
+	Date: 2020-06-03 ; Times: 2
+	Date: 2020-06-01 ; Times: 4
+	Date: 2020-06-07 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "racoon" ; Times: 2
+	Query: "bald eagle" ; Times: 1
+	Query: "specificepithet:novemcinctus genus:dasypus stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Dasyprocta punctata" ; Times: 1
+	Query: "Tolypeutes matacus" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020" ; Times: 1
+	Query: "dasyprocta punctata" ; Times: 1
+	Query: "order:Eulipotyphla stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "scalopus aquaticus" ; Times: 3
+	Query: "nasua nasua" ; Times: 1
+	Query: "Catopuma temminckii" ; Times: 1
+	Query: "Eptesicus fuscus (skin) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "ailurus fulgens" ; Times: 1
+	Query: "Cavia tschudii" ; Times: 2
+	Query: "Dactylomys" ; Times: 2
+	Query: "Lasiurus borealis continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Eptesicus fuscus continent:North America (skin OR fur AND United States OR USA) year &gt;= 1960 year &lt;= 2020 basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "order:Lagomorpha stateprovince:&#34;North Carolina&#34;" ; Times: 1
+	Query: "Nasua narica" ; Times: 1
+	Query: "raccoon" ; Times: 1
+	Query: "specificepithet:floridanus genus:sylvilagus country:&#34;united states&#34;" ; Times: 1
+
+
+End of report.
