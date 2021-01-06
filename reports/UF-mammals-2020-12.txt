@@ -1,0 +1,298 @@
+Report for Institution Code UF, Resource mammals
+Usage stats for December 2020, generated on 2021/01/06
+
+SEARCHES:
+
+Number of searches that retrieved data from the resource: 322
+Number of records retrieved in searches: 2757
+Number of different countries where searches have been originated: 19
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 6
+	Country: United States ; Times: 214
+	Country: Saudi Arabia ; Times: 1
+	Country: Italy ; Times: 3
+	Country: Colombia ; Times: 5
+	Country: Mexico ; Times: 6
+	Country: Czechia ; Times: 5
+	Country: France ; Times: 6
+	Country: United Kingdom ; Times: 39
+	Country: Sweden ; Times: 7
+	Country: Germany ; Times: 2
+	Country: Ecuador ; Times: 1
+	Country: Peru ; Times: 3
+	Country: Kenya ; Times: 3
+	Country: Belgium ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Argentina ; Times: 1
+	Country: Bolivia ; Times: 1
+	Country: Spain ; Times: 17
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-30 ; Times: 6
+	Date: 2020-12-31 ; Times: 3
+	Date: 2020-12-09 ; Times: 61
+	Date: 2020-12-08 ; Times: 11
+	Date: 2020-12-07 ; Times: 8
+	Date: 2020-12-06 ; Times: 8
+	Date: 2020-12-05 ; Times: 6
+	Date: 2020-12-04 ; Times: 43
+	Date: 2020-12-03 ; Times: 10
+	Date: 2020-12-02 ; Times: 62
+	Date: 2020-12-01 ; Times: 7
+	Date: 2020-12-24 ; Times: 4
+	Date: 2020-12-26 ; Times: 14
+	Date: 2020-12-21 ; Times: 2
+	Date: 2020-12-20 ; Times: 5
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-19 ; Times: 3
+	Date: 2020-12-10 ; Times: 5
+	Date: 2020-12-11 ; Times: 10
+	Date: 2020-12-12 ; Times: 3
+	Date: 2020-12-13 ; Times: 6
+	Date: 2020-12-14 ; Times: 31
+	Date: 2020-12-15 ; Times: 1
+	Date: 2020-12-16 ; Times: 7
+	Date: 2020-12-17 ; Times: 3
+
+List of queries that retrieved data from the resource: 
+	Query: "scientificname:Rattus norvegicus stateprovince:new york" ; Times: 2
+	Query: "catalognumber:12464 institutioncode:UF" ; Times: 2
+	Query: "catalognumber:17258" ; Times: 1
+	Query: "scientificname:Glaucomys volans stateprovince:new york" ; Times: 2
+	Query: "&#34;myotis keenii&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Castor canadensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Funisciurus anerythrus" ; Times: 5
+	Query: "country:Ecuador scientificname:Anoura caudifer " ; Times: 3
+	Query: "30727" ; Times: 1
+	Query: "scientificname:Martes pennanti stateprovince:new york" ; Times: 2
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Ovis aries" ; Times: 1
+	Query: "scientificname:Tamias striatus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Glaucomys sabrinus stateprovince:new york" ; Times: 3
+	Query: "scientificname:Perimyotis subflavus stateprovince:new york" ; Times: 2
+	Query: "ellobius" ; Times: 2
+	Query: "Rusa timorensis" ; Times: 2
+	Query: "Neotoma floridana smalli" ; Times: 1
+	Query: "scientificname:Chrysocyon brachyurus" ; Times: 1
+	Query: "specificepithet:provocax" ; Times: 1
+	Query: "scientificname:Rattus rattus stateprovince:new york" ; Times: 2
+	Query: "Panthera onca" ; Times: 1
+	Query: "scientificname:Mustela frenata stateprovince:new york" ; Times: 2
+	Query: "galictis vittata" ; Times: 1
+	Query: "Myoprocta acouchy" ; Times: 1
+	Query: "scientificname:Myotis lucifugus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Scalopus aquaticus stateprovince:new york" ; Times: 2
+	Query: "26360" ; Times: 1
+	Query: "Cervus nippon" ; Times: 2
+	Query: "UF 7196" ; Times: 2
+	Query: "scientificname:Blarina brevicauda stateprovince:new york" ; Times: 4
+	Query: "scientificname:Lasiurus seminolus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Eptesicus fuscus stateprovince:new york" ; Times: 2
+	Query: "mappable:1 scientificname:Bos taurus" ; Times: 1
+	Query: "diclidurus albus" ; Times: 2
+	Query: "Felis silvestris" ; Times: 1
+	Query: "Cabassous" ; Times: 2
+	Query: "Nasua nasua" ; Times: 1
+	Query: "country:Ecuador scientificname:Tamandua tetradactyla " ; Times: 1
+	Query: "scientificname:Parascalops breweri stateprovince:new york" ; Times: 2
+	Query: "scientificname:Myodes gapperi stateprovince:new york" ; Times: 2
+	Query: "scientificname:Zapus hudsonius stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia brevicauda " ; Times: 6
+	Query: "genus:tragulus" ; Times: 1
+	Query: "solomys" ; Times: 3
+	Query: "Oligoryzomys flavescens" ; Times: 1
+	Query: "17310" ; Times: 1
+	Query: "4282 genus:Geomys" ; Times: 3
+	Query: "catalognumber:13754 institutioncode:UF" ; Times: 1
+	Query: "Pipistrellus kuhlii" ; Times: 1
+	Query: "scientificname:Microtus pinetorum stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sciurus carolinensis stateprovince:new york" ; Times: 2
+	Query: "scientificname:Marmota monax stateprovince:new york" ; Times: 2
+	Query: "scientificname:Condylura cristata stateprovince:new york" ; Times: 2
+	Query: "23496" ; Times: 1
+	Query: "catalognumber:33488 institutioncode:UF" ; Times: 1
+	Query: "Suncus etruscus" ; Times: 1
+	Query: "country:Ecuador scientificname:Sturnira tildae " ; Times: 1
+	Query: "12995" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus infuscus " ; Times: 3
+	Query: "Rusa unicolor" ; Times: 2
+	Query: "Felis margarita" ; Times: 28
+	Query: "Felis catus" ; Times: 1
+	Query: "country:Ecuador scientificname:Platyrrhinus dorsalis " ; Times: 1
+	Query: "27650" ; Times: 1
+	Query: "genus:Thomomys stateprovince:&#34;minnesota&#34;" ; Times: 1
+	Query: "specificepithet:jelskii genus:Abrothrix" ; Times: 4
+	Query: "scientificname:Peromyscus maniculatus stateprovince:new york" ; Times: 2
+	Query: "geoxus" ; Times: 1
+	Query: "Pasadena 1906" ; Times: 1
+	Query: "catalognumber:12487 institutioncode:UF" ; Times: 1
+	Query: "scientificname:Mus musculus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Vulpes vulpes stateprovince:new york" ; Times: 2
+	Query: "scientificname:Lepus americanus stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Carollia perspicillata " ; Times: 4
+	Query: "Dasyprocta leporina" ; Times: 1
+	Query: "vntype:specimen genus:Tamias stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "Neotoma cinerea" ; Times: 4
+	Query: "genus:urocyon stateprovince:&#34;florida&#34; country:&#34;United states&#34; hastissue:1" ; Times: 2
+	Query: "Plecturocebus moloch" ; Times: 1
+	Query: "genus:Geomys stateprovince:&#34;minnesota&#34;" ; Times: 3
+	Query: "scientificname:Peromyscus leucopus stateprovince:new york" ; Times: 4
+	Query: "Bubalus bubalis" ; Times: 1
+	Query: "scientificname:Myotis leibii stateprovince:new york" ; Times: 2
+	Query: "scientificname:Procyon lotor stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sciurus niger stateprovince:new york" ; Times: 3
+	Query: "country:Ecuador scientificname:Carollia castanea " ; Times: 4
+	Query: "Dryomys nitedula" ; Times: 2
+	Query: "Oecomys bicolor" ; Times: 1
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Pipistrellus tenuis" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;georgia&#34; country:&#34;United states&#34;" ; Times: 1
+	Query: "Micromys minutus" ; Times: 1
+	Query: "UF UF 7196" ; Times: 1
+	Query: "Plecotus austriacus" ; Times: 1
+	Query: "scientificname:Erethizon dorsatum stateprovince:new york" ; Times: 2
+	Query: "Equus caballus" ; Times: 1
+	Query: "Mesoplodon europaeus" ; Times: 10
+	Query: "specificepithet:astutus genus:bassariscus stateprovince:&#34;texas&#34;" ; Times: 2
+	Query: "Saguinus midas" ; Times: 1
+	Query: "Bos taurus" ; Times: 2
+	Query: "Chaetophractus villosus" ; Times: 1
+	Query: "Bos sauveli" ; Times: 1
+	Query: "Pipistrellus ceylonicus" ; Times: 1
+	Query: "scientificname:Panthera onca" ; Times: 4
+	Query: "19907" ; Times: 1
+	Query: "solenodon" ; Times: 1
+	Query: "&#34;myotis septentrionalis&#34; vntype:specimen stateprovince:&#34;massachusetts&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Cabassous chacoensis" ; Times: 1
+	Query: "scientificname:Mustela erminea stateprovince:new york" ; Times: 2
+	Query: "specificepithet:californicus genus:lepus county:&#34;los angeles&#34; stateprovince:&#34;california&#34; institutioncode:UF" ; Times: 1
+	Query: "scientificname:Neovison vison stateprovince:new york" ; Times: 2
+	Query: "nanger soemmerringii" ; Times: 3
+	Query: "cervus nippon" ; Times: 1
+	Query: "catalognumber:12488 institutioncode:UF" ; Times: 3
+	Query: "Lasiurus blossevillii Argentina" ; Times: 1
+	Query: "scientificname:Felis catus stateprovince:new york" ; Times: 2
+	Query: "17519" ; Times: 1
+	Query: "specificepithet:davyi genus:Pteronotus country:&#34;Venezuela&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "Tamandua mexicana" ; Times: 3
+	Query: "scientificname:Microtus chrotorrhinus stateprovince:new york" ; Times: 3
+	Query: "scientificname:Procyon lotor" ; Times: 16
+	Query: "Crocidura grayi" ; Times: 1
+	Query: "specificepithet:davyi genus:Pteronotus country:&#34;Costa Rica&#34; basisofrecord:PreservedSpecimen" ; Times: 1
+	Query: "scientificname:Tamiasciurus hudsonicus stateprovince:new york" ; Times: 4
+	Query: "scientificname:Sorex dispar stateprovince:new york" ; Times: 3
+	Query: "Pipistrellus javanicus" ; Times: 1
+	Query: "scientificname:Sorex cinereus stateprovince:new york" ; Times: 2
+	Query: "scientificname:Sorex fumeus stateprovince:new york" ; Times: 2
+	Query: "dipodomys merriami parvus" ; Times: 2
+	Query: "scientificname:Canis latrans stateprovince:new york" ; Times: 2
+	Query: "Felis chaus" ; Times: 3
+	Query: "scientificname:Lasionycteris noctivagans stateprovince:new york" ; Times: 2
+	Query: "scientificname:Ondatra zibethicus stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Platyrrhinus helleri " ; Times: 1
+	Query: "Petaurista alborufus" ; Times: 1
+	Query: "scientificname:Microtus pennsylvanicus stateprovince:new york" ; Times: 4
+	Query: "HBS 271" ; Times: 1
+	Query: "solomys sapientis" ; Times: 2
+	Query: "scientificname:Lasiurus borealis stateprovince:new york" ; Times: 2
+	Query: "Phacochoerus" ; Times: 3
+	Query: "country:Ecuador scientificname:Glossophaga soricina " ; Times: 3
+	Query: "11296" ; Times: 1
+	Query: "scientificname:Cervus elaphus stateprovince:new york" ; Times: 2
+	Query: "class:mammalia (samson)" ; Times: 1
+	Query: "Leopardus wiedii" ; Times: 1
+	Query: "Oryctolagus cuniculus" ; Times: 1
+	Query: "scientificname:Sylvilagus floridanus stateprovince:new york" ; Times: 2
+	Query: "country:Ecuador scientificname:Sturnira lilium " ; Times: 3
+	Query: "hastissue:1 Neotoma floridana smalli" ; Times: 1
+
+DOWNLOADS:
+
+Number of download events that retrieved data from the resource: 43 (out of 705 download events in this period)
+Total number of records downloaded: 5200
+Number of different countries: 15
+
+Origin of the queries that retrieved data from the resource: 
+	Country: Brazil ; Times: 2
+	Country: Turkey ; Times: 1
+	Country: Romania ; Times: 1
+	Country: Australia ; Times: 1
+	Country: Iran ; Times: 1
+	Country: Peru ; Times: 2
+	Country: Mexico ; Times: 6
+	Country: Unknown ; Times: 6
+	Country: Czechia ; Times: 1
+	Country: France ; Times: 1
+	Country: United States ; Times: 15
+	Country: Netherlands ; Times: 1
+	Country: Germany ; Times: 2
+	Country: India ; Times: 1
+	Country: Ecuador ; Times: 2
+
+Dates of the queries that retrieved data from the resource: 
+	Date: 2020-12-21 ; Times: 1
+	Date: 2020-12-30 ; Times: 1
+	Date: 2020-12-23 ; Times: 1
+	Date: 2020-12-31 ; Times: 2
+	Date: 2020-12-03 ; Times: 6
+	Date: 2020-12-22 ; Times: 2
+	Date: 2020-12-29 ; Times: 2
+	Date: 2020-12-28 ; Times: 1
+	Date: 2020-12-06 ; Times: 1
+	Date: 2020-12-07 ; Times: 3
+	Date: 2020-12-02 ; Times: 6
+	Date: 2020-12-09 ; Times: 2
+	Date: 2020-12-08 ; Times: 2
+	Date: 2020-12-10 ; Times: 2
+	Date: 2020-12-11 ; Times: 1
+	Date: 2020-12-12 ; Times: 1
+	Date: 2020-12-04 ; Times: 2
+	Date: 2020-12-14 ; Times: 1
+	Date: 2020-12-15 ; Times: 2
+	Date: 2020-12-01 ; Times: 3
+	Date: 2020-12-17 ; Times: 1
+
+List of queries that retrieved data from the resource: 
+	Query: "Vulpes lagopus" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:hudsonicus*" ; Times: 1
+	Query: "family:sciuridae" ; Times: 1
+	Query: "Myotis velifer" ; Times: 1
+	Query: "vntype:specimen genus:Tamias stateprovince:&#34;Maryland&#34;" ; Times: 1
+	Query: "class:Mammalia country:Brazil" ; Times: 2
+	Query: "specificepithet:arenarius genus:geomys" ; Times: 2
+	Query: "Ursus maritimus" ; Times: 1
+	Query: "genus:urocyon stateprovince:&#34;florida&#34; country:&#34;United states&#34; hastissue:1" ; Times: 1
+	Query: "Iguana iguana" ; Times: 1
+	Query: "solomys" ; Times: 1
+	Query: "Paraechinus aethiopicus" ; Times: 1
+	Query: "Lontra longicaudis" ; Times: 2
+	Query: "Galictis vittata" ; Times: 1
+	Query: "Tadarida brasiliensis" ; Times: 1
+	Query: "Pucallpa" ; Times: 2
+	Query: "class:mammalia locality:Caloosahatchee River" ; Times: 1
+	Query: "order:Chiroptera continent:Central America year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "puma concolor" ; Times: 1
+	Query: "dipodomys merriami parvus" ; Times: 1
+	Query: "Procyon lotor stateprovince:&#34;Texas&#34;" ; Times: 1
+	Query: "Glossophaga commissarisi" ; Times: 1
+	Query: "lontra longicaudis" ; Times: 1
+	Query: "genus:Martes specificepithet:americana*" ; Times: 1
+	Query: "crocuta" ; Times: 1
+	Query: "galictis vittata" ; Times: 1
+	Query: "class:Mammalia stateprovince:&#34;Sonora&#34; country:&#34;México&#34;" ; Times: 1
+	Query: "genus:Tamiasciurus specificepithet:.*" ; Times: 1
+	Query: "Lepus capensis" ; Times: 1
+	Query: "genus:Lepus" ; Times: 1
+	Query: "canis latrans" ; Times: 1
+	Query: "sorex saussurei" ; Times: 2
+	Query: "mallard" ; Times: 1
+	Query: "Odobenus rosmarus" ; Times: 1
+	Query: "genus:Rangifer tarandus" ; Times: 1
+	Query: "Woodpecker" ; Times: 1
+	Query: "family:Felidae year &gt;= 2000 year &lt;= 2020" ; Times: 1
+	Query: "caracal caracal" ; Times: 1
+
+
+End of report.
